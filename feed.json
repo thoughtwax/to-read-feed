@@ -1,0 +1,924 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Emmet's Reading Feed",
+  "description": "Articles, tweets, and content processed from Things inbox",
+  "items": [
+    {
+      "id": "URFW2yjD1VYVQZXbq5JWY2",
+      "url": "https://evjang.com/2026/02/04/rocks.html",
+      "title": "As Rocks May Think",
+      "content_text": "Eric Jang describes using Claude as an automated scientist, discovering that coding agents can formulate theories, run experiments, and reflect on results. Traces the evolution of LLM reasoning from chain-of-thought to DeepSeek R1-Zero's breakthrough, and predicts astronomical demand for inference compute as automated research becomes standard.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "W65N6RD87tw2QDGL7Q52Ez",
+      "url": "https://summarize.sh/",
+      "title": "summarize — CLI + Chrome Side Panel for fast summaries",
+      "content_text": "A CLI tool and Chrome Side Panel for fast summaries of URLs, PDFs, videos, and podcasts. Supports multiple LLM providers with a real extraction pipeline using Readability, markitdown, and Firecrawl fallback.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "Vkt2qaJwSLnUqdRAs6rVSj",
+      "url": "https://grainrad.com/",
+      "title": "Grainrad",
+      "content_text": "A free WebGPU-powered browser tool delivering ASCII art, dithering, and retro visual effects at 60fps. No installation required — runs entirely in the browser.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "244hqCMhLEqhRfkufb7p41",
+      "url": "https://grainrad.com/",
+      "title": "Grainrad",
+      "content_text": "A free WebGPU-powered browser tool delivering ASCII art, dithering, and retro visual effects at 60fps. Duplicate entry — same as above.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "VZVJDucvjGuCQpHEULyUAg",
+      "url": "https://threejsresources.com/tool/leva",
+      "title": "Leva | Three.js Resources",
+      "content_text": "A React GUI library for creating intuitive real-time controls in Three.js projects. Supports numbers, booleans, vectors, and colors with minimal setup and live updates.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "VDVsouAib7Pf6L1KRstXYC",
+      "url": "https://spacetypegenerator.com/",
+      "title": "Space Type Generator",
+      "content_text": "A kinetic typography generator by Kielm. Interactive web tool for creating animated type compositions.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "MhRbkKbcTYjPJzdw339ggx",
+      "url": "https://public.work/",
+      "title": "Public Work by Cosmos",
+      "content_text": "A search engine for public domain content — explore 100,000+ copyright-free images from The MET, New York Public Library, and other sources.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "2WKmmTAGVLuuh7AJjX1SCQ",
+      "url": "https://www.dive.club/ideas/introducing-the-ai-systems-designer",
+      "title": "Dive — Introducing the AI Systems Designer",
+      "content_text": "On the emerging role of AI systems designer — prototyping AI features, establishing guardrails for dynamic interfaces, and empowering AI to use design systems. Features interview with Jordan Singer at Figma.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "A8vH4mq1PXYBq8PsiFSb9g",
+      "url": "https://opendesigndocs.com/",
+      "title": "Open Design Docs",
+      "content_text": "Resources for building great design teams: leadership blueprints, level competency frameworks for career progression, and AI-powered performance review tools.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "EQvZNXEBJTLdpWB3QSWM2W",
+      "url": "https://www.ogimage.gallery/",
+      "title": "OGimage.gallery",
+      "content_text": "A curated gallery of hand-picked Open Graph images from companies like Stripe, Shopify, Figma, Intercom, and more. Useful design reference for social media preview cards.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "HTbQESTQtg1rZR7z9LoRF5",
+      "url": "https://www.latent.space/p/build-ai-ux",
+      "title": "It's Time To Build AI | UX",
+      "content_text": "A showcase of AI/UX demo projects from the first AI|UX event, featuring mindmapping canvases, AI writing apps, generative UI plugins, and AI Zettelkasten — all exploring interaction paradigms beyond chatbots.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "Bc5gywZweAGPxo3EbebNWr",
+      "url": "https://medium.com/@colin.fraser/who-are-we-talking-to-when-we-talk-to-these-bots-9a7e673f8525",
+      "title": "Who are we talking to when we talk to these bots?",
+      "content_text": "Colin Fraser argues ChatGPT is actually three things: a language model, a chat interface that manipulates user behavior, and a fictional character. The chat window creates such a powerful illusion that even jailbreakers remain trapped in conversation mode.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "5XTrdGf6epDLP9LbPJ4h63",
+      "url": "https://creatoreconomy.so/p/curious-beginners-guide-to-large-language-models",
+      "title": "Curious Beginner's Guide to LLMs",
+      "content_text": "An accessible overview of how LLMs work: next-word prediction at core, pretraining and fine-tuning as two stages. Covers tool use, RAG, multimodal capabilities, and System 1 vs System 2 thinking.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "6jEveEK9ZDDXyqYKqWMspn",
+      "url": "https://michaelnotebook.com/xrisk/index.html",
+      "title": "Notes on Existential Risk from Artificial Superintelligence",
+      "content_text": "Michael Nielsen's exploration of whether superintelligence poses existential risk. Identifies three paradoxes making the risk hard to argue about, the alignment dilemma, and whether recipes for ruin exist that ASI could discover.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "D4Tyx3cTD4yLtHKUHe6Fcw",
+      "url": "https://retool.com/visual-basic/",
+      "title": "Something Pretty Right: A History of Visual Basic",
+      "content_text": "The story of Visual Basic from Alan Cooper's Ruby prototype through explosive growth to the fatal VB.NET rewrite. At its peak, two-thirds of Windows business apps used VB with 3.5M developers.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "KNw9vnfiXm6JHGkXHANQBu",
+      "url": "https://www.brendanschlagel.com/blogroll/",
+      "title": "Blogroll – Brendan Schlagel",
+      "content_text": "A curated list of interesting people on the internet — writers, makers, and thinkers — including Bret Victor, Craig Mod, Frank Chimero, Kevin Kelly, Robin Sloan, and many more.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "9aoXXSqH6fF2VgTEdwqzRL",
+      "url": "https://www.inkandswitch.com/end-user-programming/",
+      "title": "End-user Programming",
+      "content_text": "Ink & Switch explores why software users can't customize their tools. Proposes three qualities: embodiment, living systems, and in-place toolchains. Five experiments reveal promising approaches including typed data pipelines and computation-as-bots.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "GWsCMiMUzMeSeHdrDdhA9C",
+      "url": "https://adjacentpossible.substack.com/p/capturing-and-colliding",
+      "title": "Capturing and Colliding",
+      "content_text": "Steven Johnson on the tradition of commonplace books — personal archives of quotes and ideas dating back to Milton and Locke. Traces his journey from HyperCard to digital note-taking, arguing reading and writing are inseparable.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "DNBwxYN89WdbQo8dKzGqFZ",
+      "url": "https://milky.substack.com/p/modest",
+      "title": "modest",
+      "content_text": "Molly Mielke's curated collection of recommended articles, films, songs, and media. Highlights include pieces on hiring, the importance of awe, and Work on Something that Matters.",
+      "date_published": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "CH4xBvX3iEcCCPLPW9r2ZB",
+      "url": "https://x.com/delba_oliveira/status/2020515010985005255",
+      "title": "@delba_oliveira: Audio hooks for Claude Code",
+      "content_text": "Set up audio hooks that trigger childhood game sounds when Claude completes a task or requires permission. Prevents constantly checking back on long-running tasks.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "628uG9WNDqtHrEWp4tmbmG",
+      "url": "https://x.com/chongdashu/status/2020278168205291746",
+      "title": "@chongdashu: Point-and-click adventure game",
+      "content_text": "A walkable point-and-click adventure game with navigation mesh, item hotspots, and AI-generated animated backgrounds. Built using GPT 5.2 and Codex 5.3.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "CTLzGwKRavRi4KNmP74stu",
+      "url": "https://x.com/meetgranola/status/2019108975107846263",
+      "title": "@meetgranola: Hello MCP",
+      "content_text": "Granola announces MCP integration.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "A9JPCmJmQbqyajrGhgTSsp",
+      "url": "https://x.com/chongdashu/status/2019781443707142387",
+      "title": "@chongdashu: 3D vibe coding pipeline",
+      "content_text": "3D character creation pipeline: nano banana pro for characters, meshy for rigging, GLB export, Three.js rendering, Capacitor.js for native iOS. GPT 5.3 codex for code generation.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "7WmVxv1DLu8LKBf1C96mUo",
+      "url": "https://x.com/geoffreylitt/status/2019415997120410075",
+      "title": "@geoffreylitt: Is software dead? (4-part series)",
+      "content_text": "Geoffrey Litt's 4-part blog series on malleable software in the age of LLMs — why GUIs still matter and how spreadsheets illuminate the path forward.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "P4BeXEmbprwHmKV6xuHQWN",
+      "url": "https://x.com/remotion/status/2019732439502053748",
+      "title": "@remotion: Prompt collection",
+      "content_text": "Remotion launched a community-driven collection of prompts for video creation in React.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "LLpz6GRZ4weAuJjc7PshyW",
+      "url": "https://x.com/levelsio/status/2018738163431120965",
+      "title": "@levelsio: Design appreciation",
+      "content_text": "Levelsio praising a project's design and domain name.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "E7YixMjJ8T5K1yM16SYtHU",
+      "url": "https://x.com/soulegit/status/2018782189870272703",
+      "title": "@soulegit: Blue noise dither animation",
+      "content_text": "Technique for adding motion to static dither graphics by layering Blue Noise underneath ASCII dither for a shimmer effect.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "4FVnZWCmjnbdfWPwrmTVr5",
+      "url": "https://x.com/andrewyng/status/2016564878098780245",
+      "title": "@andrewyng: Claude Skills course",
+      "content_text": "Andrew Ng course on building custom Claude skills. Skills are portable across Claude.ai, Claude Code, API, and Agent SDK.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "ATPQRYnctUqsntdZyAFdKA",
+      "url": "https://x.com/emollick/status/2015512532056764490",
+      "title": "@emollick: Sierra-style adventure game by Claude",
+      "content_text": "Claude Code designed, tested, and built a complete Sierra-style adventure game with EGA graphics and text parser.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "G3JWtrEsNaHoTwX6g6XRsZ",
+      "url": "https://x.com/minchoi/status/2012678453586170144",
+      "title": "@minchoi: Blender MCP",
+      "content_text": "Link to the Blender MCP repo for connecting Blender to AI models via MCP.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "8BQobf1buT7RU4Lfx2hZNe",
+      "url": "https://x.com/thedankoe/status/2010042119121957316",
+      "title": "@thedankoe: High-density content creation",
+      "content_text": "In a world flooded with AI noise, build an idea museum from curated sources, write the same idea 1,000 ways, and create systems-as-products.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "UESYFUXo4wNEcqyBJgb25e",
+      "url": "https://x.com/bcherny/status/2007179861115511237",
+      "title": "@bcherny: Claude Code verification tip",
+      "content_text": "Give Claude a way to verify its work — feedback loops 2-3x the quality of results.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "FG1CNYzV3wjtTB78gLj8fA",
+      "url": "https://x.com/scottbelsky/status/1704275792765849949",
+      "title": "@scottbelsky: 4 P's of AI adoption",
+      "content_text": "Framework for AI adoption: Play (access without expectations), Pilot (one project the new way), Protect (learning KPIs), Provoke (invite tough questions).",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "4ohJJDnzGjKseqKMNQgE2H",
+      "url": "https://twitter.com/andy_matuschak/status/1687581778264096768",
+      "title": "@andy_matuschak: Mother of All Demos performance",
+      "content_text": "A live electronica-infused performance of the Mother of All Demos at Stanford in 2015.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "DxgqQjjHPq3ZCQLjfhRe9r",
+      "url": "https://twitter.com/kracov/status/1514266881946923016",
+      "title": "@kracov: Dock",
+      "content_text": "Dock — a collaboration platform for working with people outside your company.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "853ioyzL1w4UTHC2dCPypC",
+      "url": "https://twitter.com/SwiftOnSecurity/status/1466906414358700041",
+      "title": "@SwiftOnSecurity: In product support",
+      "content_text": "Joke about Google's billion-dollar AI failing to detect something obvious.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "8bVHibTGjsjoZ2BtXuJWBG",
+      "url": "https://twitter.com/kellianderson/status/1266543175914737672",
+      "title": "@kellianderson: Richard McGuire's Here",
+      "content_text": "Reference to Richard McGuire's 'Here' with a linked example.",
+      "date_published": "2026-02-16T18:00:00Z"
+    },
+    {
+      "id": "W4rYjdDYVgDDzNkTUQv18N",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "title": "last30days-skill",
+      "content_text": "Claude Code skill that researches any topic across Reddit, X, YouTube and the web from the past 30 days, then generates copy-paste-ready prompts based on what communities are discussing. Supports watchlists and cron scheduling.",
+      "date_published": "2026-02-17T09:59:06Z"
+    },
+    {
+      "id": "XRivNEyX8qFvvrZcAQtJr4",
+      "url": "https://github.com/obra/the-elements-of-style/blob/main/skills/writing-clearly-and-concisely/elements-of-style.md",
+      "title": "Elements of Style",
+      "content_text": "A Claude Code skill by Jesse Vincent that enforces Strunk & White writing principles — clarity, concision, and active voice — as an automated editing pass on your writing.",
+      "date_published": "2026-02-17T09:59:09Z"
+    },
+    {
+      "id": "QbCUirdmTNEvABBkm44Vo6",
+      "url": "https://chrisglass.com/blogroll/",
+      "title": "Chris Glass's Blogroll",
+      "content_text": "A curated collection of personal and independent websites celebrating the non-corporate internet, organized alphabetically with brief descriptions of what makes each worth visiting.",
+      "date_published": "2026-02-17T09:59:36Z"
+    },
+    {
+      "id": "NyupqqevbZAL2xm8dfDExY",
+      "url": "https://playgroundai.com/",
+      "title": "Playground AI",
+      "content_text": "AI image generation platform for creating and editing images with various aesthetic styles and models.",
+      "date_published": "2026-02-17T09:59:40Z"
+    },
+    {
+      "id": "6h42B4B7CpkxZmBfpEhZAV",
+      "url": "https://www.petermerholz.com/blog/from-the-weeds-to-the-board-room-how-design-leaders-shift-from-managing-down-to-up-and-out/",
+      "title": "From the Weeds to the Board Room",
+      "content_text": "Peter Merholz on how design leaders must shift from managing down (craft, team) to managing up and out (business strategy, cross-functional influence) as they advance to VP/C-level.",
+      "date_published": "2026-02-17T09:59:47Z"
+    },
+    {
+      "id": "bm-2023151176758268349",
+      "url": "https://x.com/dani_avila7/status/2023151176758268349",
+      "title": "@dani_avila7: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
+      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "date_published": "2026-02-17T14:27:44Z"
+    },
+    {
+      "id": "bm-2023119295425761702",
+      "url": "https://x.com/malinvested/status/2023119295425761702",
+      "title": "@malinvested: Of course that's your contention. You're a first-time SaaS b",
+      "content_text": "@malinvested: \"Of course that's your contention. You're a first-time SaaS bear. You just got finished listening to some podcast, Dario on Dwarkesh, probably. Now you think it’s the end of white collar work and seat-based pricing is screwed. You're gonna be convinced of that til tomorrow when \" (10901 likes)",
+      "date_published": "2026-02-17T14:28:05Z"
+    },
+    {
+      "id": "bm-2022430172369293505",
+      "url": "https://x.com/kenwheeler/status/2022430172369293505",
+      "title": "@kenwheeler: @Tailscale @TermiusHQ @ScreensConnect screens is the shit be",
+      "content_text": "@kenwheeler: \"@Tailscale @TermiusHQ @ScreensConnect screens is the shit because sometimes you have to hop in and do the gui thing.\" (54 likes)",
+      "date_published": "2026-02-17T14:28:05Z"
+    },
+    {
+      "id": "bm-2022368529417224480",
+      "url": "https://x.com/mimurchison/status/2022368529417224480",
+      "title": "@mimurchison: My relationship with my computer has changed more in the las",
+      "content_text": "@mimurchison: \"My relationship with my computer has changed more in the last month than in the previous 10 years. \n\nHere's a walkthrough of how I as a CEO am using Claude Code as my AI Chief of Staff to roughly double my productivity. \n\nI show how show how with near perfect context on our compa\" (1326 likes)",
+      "date_published": "2026-02-17T14:28:05Z"
+    },
+    {
+      "id": "bm-2022064852995649620",
+      "url": "https://x.com/trq212/status/2022064852995649620",
+      "title": "@trq212: We've rolled out several updates to Claude Code on the web t",
+      "content_text": "@trq212: \"We've rolled out several updates to Claude Code on the web to make it a more powerful daily driver including multi-repo sessions, better diff &amp; git status visualization and slash commands. https://t.co/gUbOZ36jzv\" (940 likes)",
+      "date_published": "2026-02-17T14:28:05Z"
+    },
+    {
+      "id": "bm-2021588678099751328",
+      "url": "https://x.com/n1babc/status/2021588678099751328",
+      "title": "@n1babc: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
+      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "date_published": "2026-02-17T14:28:10Z"
+    },
+    {
+      "id": "bm-2017024445244924382",
+      "url": "https://x.com/trq212/status/2017024445244924382",
+      "title": "@trq212: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
+      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "date_published": "2026-02-17T14:28:14Z"
+    },
+    {
+      "id": "bm-2021253509828505823",
+      "url": "https://x.com/Artedeingenio/status/2021253509828505823",
+      "title": "@Artedeingenio: I’ve created this hand-drawn retrofuturistic sci-fi short ",
+      "content_text": "@Artedeingenio: \"I’ve created this hand-drawn retrofuturistic sci-fi short in the style of European graphic novel illustration, focused on atmosphere, stillness, and lived-in technology.\n\nThe workflow is exactly the same one I used for the other short with a retrofuturistic, industrial, post-hu\" (2021 likes)",
+      "date_published": "2026-02-17T14:28:14Z"
+    },
+    {
+      "id": "bm-2020947578964283746",
+      "url": "https://x.com/gregisenberg/status/2020947578964283746",
+      "title": "@gregisenberg: you've probably heard of \"vibe marketing\" but you think it's",
+      "content_text": "@gregisenberg: \"you've probably heard of \"vibe marketing\" but you think it's just a buzz word\n\ni get it but in 58 mins, you'll learn how to use AI agents to go from 0 to market research, landing pages, lead magnets, video ads, seo pages and more all inside claude code using skills/MCPs https://t\" (2477 likes)",
+      "date_published": "2026-02-17T14:28:14Z"
+    },
+    {
+      "id": "bm-2019484169915572452",
+      "url": "https://x.com/DKThomp/status/2019484169915572452",
+      "title": "@DKThomp: for me the odds that AI is a bubble declined significantly i",
+      "content_text": "@DKThomp: \"for me the odds that AI is a bubble declined significantly in the last 3 weeks and the odds that we’re actually quite under-built for the necessary levels of inference/usage went significantly up in that period \n\nbasically I think AI is going to become the home screen of a ludi\" (4666 likes)",
+      "date_published": "2026-02-17T14:28:14Z"
+    },
+    {
+      "id": "bm-2020640004628742577",
+      "url": "https://x.com/elonmusk/status/2020640004628742577",
+      "title": "@elonmusk: For those unaware, SpaceX has already shifted focus to build",
+      "content_text": "@elonmusk: \"For those unaware, SpaceX has already shifted focus to building a self-growing city on the Moon, as we can potentially achieve that in less than 10 years, whereas Mars would take 20+ years. \n\nThe mission of SpaceX remains the same: extend consciousness and life as we know it to t\" (261669 likes)",
+      "date_published": "2026-02-17T14:28:14Z"
+    },
+    {
+      "id": "bm-2017702095437369707",
+      "url": "https://x.com/bruce_CQT/status/2017702095437369707",
+      "title": "@bruce_CQT: self-correcting agent from Tensorlake 🤖 project w/ @ayush",
+      "content_text": "@bruce_CQT: \"self-correcting agent from Tensorlake 🤖 project w/ @ayushsoni_io &amp; https://t.co/8Fc1Huxb46\n\nbuilt in @rive_app https://t.co/R2WK8Lns4B\" (1629 likes)",
+      "date_published": "2026-02-17T14:28:14Z"
+    },
+    {
+      "id": "bm-2015897796990402800",
+      "url": "https://x.com/BlendiByl/status/2015897796990402800",
+      "title": "@BlendiByl: Generate sprite sheets for ANY character and test the animat",
+      "content_text": "@BlendiByl: \"Generate sprite sheets for ANY character and test the animation in a 2D side-scroller map! 👾 https://t.co/ojw4VYCe7L\" (1304 likes)",
+      "date_published": "2026-02-17T14:28:14Z"
+    },
+    {
+      "id": "bm-2015327280911073789",
+      "url": "https://x.com/heyshrutimishra/status/2015327280911073789",
+      "title": "@heyshrutimishra: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
+      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "date_published": "2026-02-17T14:28:19Z"
+    },
+    {
+      "id": "bm-2010021203948494939",
+      "url": "https://x.com/chongdashu/status/2010021203948494939",
+      "title": "@chongdashu: Want to know how to vibe code games like these?\n\n- ThreeJS C",
+      "content_text": "@chongdashu: \"Want to know how to vibe code games like these?\n\n- ThreeJS Claude Code / Codex Agent Skills\n- Nano Bana Pro \n- Game Design + Technical Design Specs\n- Opus 4.5 / Gpt 5.2 \n\nHere's my FULL step-by-step workflow 👇\n\nSource code + agent .mds + playable links in reply https://t.co/At\" (1643 likes)",
+      "date_published": "2026-02-17T14:28:19Z"
+    },
+    {
+      "id": "bm-2006147267959644303",
+      "url": "https://x.com/RohunJauhar/status/2006147267959644303",
+      "title": "@RohunJauhar: for any CEO using claude code — here's a single prompt tha",
+      "content_text": "@RohunJauhar: \"for any CEO using claude code — here's a single prompt that builds your entire 2026 personal productivity system.\n\nannual planning, weekly reviews, etc.. one-shot copy/paste, come back 1 hour later, and start using immediately.\n__ __ \nI want you to autonomously build a PERSONAL\" (4309 likes)",
+      "date_published": "2026-02-17T14:28:23Z"
+    },
+    {
+      "id": "bm-2002878702603083891",
+      "url": "https://x.com/DylanMcD8/status/2002878702603083891",
+      "title": "@DylanMcD8: Apple at the end of 1995, 2005, 2015, and 2025 https://t.co/",
+      "content_text": "@DylanMcD8: \"Apple at the end of 1995, 2005, 2015, and 2025 https://t.co/003UKdMMJs\" (6369 likes)",
+      "date_published": "2026-02-17T14:28:23Z"
+    },
+    {
+      "id": "bm-1997351463878574363",
+      "url": "https://x.com/signulll/status/1997351463878574363",
+      "title": "@signulll: my contrarian take is that ai doesn’t disintermediate juni",
+      "content_text": "@signulll: \"my contrarian take is that ai doesn’t disintermediate juniors… it disintermediates seniors who no longer can or won’t build.\n\nsimply because a massive fraction of senior ppl have spent the last decade doing meta work instead of work work. they’ve been marinating in meetin\" (1146 likes)",
+      "date_published": "2026-02-17T14:28:23Z"
+    },
+    {
+      "id": "bm-1991009823614513479",
+      "url": "https://x.com/zarazhangrui/status/1991009823614513479",
+      "title": "@zarazhangrui: Just built with Gemini 3: a video recording tool where the A",
+      "content_text": "@zarazhangrui: \"Just built with Gemini 3: a video recording tool where the AI gives you real-time prompts based on what you're saying, so you never get stuck. Everyone should have their own podcast host.\n\nIt's amazing that Gemini comes with native integration with the camera, and I can actually \" (7106 likes)",
+      "date_published": "2026-02-17T14:28:23Z"
+    },
+    {
+      "id": "bm-1993803743733928214",
+      "url": "https://x.com/EricBuess/status/1993803743733928214",
+      "title": "@EricBuess: claude update\n\nclaude\n\n/model -&gt; opus\n\n/plugin marketplac",
+      "content_text": "@EricBuess: \"claude update\n\nclaude\n\n/model -&gt; opus\n\n/plugin marketplace add anthropics/claude-code\n\n/plugin install frontend-design@claude-code-plugins\n\nshift+tab until you see plan mode\n\n“Use the frontend-design skill to [describe what you want to build]”\n\n🔥\n\n@claudeai @AnthropicAI\" (1911 likes)",
+      "date_published": "2026-02-17T14:28:23Z"
+    },
+    {
+      "id": "bm-1993104146044797140",
+      "url": "https://x.com/boringmarketer/status/1993104146044797140",
+      "title": "@boringmarketer: current status: let's see what OPUS 4.5 can do with the clau",
+      "content_text": "@boringmarketer: \"current status: let's see what OPUS 4.5 can do with the claude code front end design skill\n\nif you haven't installed this skill, DO IT in two steps:\n\n1) /plugin marketplace add anthropics/claude-code\n2) /plugin install frontend-design@claude-code-plugins https://t.co/mHuzXp4UYm\" (690 likes)",
+      "date_published": "2026-02-17T14:28:24Z"
+    },
+    {
+      "id": "bm-1986482482460725755",
+      "url": "https://x.com/TheHumanoidHub/status/1986482482460725755",
+      "title": "@TheHumanoidHub: XPENG's next-gen IRON robot effectively crossed the uncanny ",
+      "content_text": "@TheHumanoidHub: \"XPENG's next-gen IRON robot effectively crossed the uncanny valley, leading many to believe it was a human in a suit.\n\nIn a follow-up event to prove it was a robot, He Xiaopeng had its leg skin cut open in front of a live audience. The robot then walked off the stage. https://t.c\" (11015 likes)",
+      "date_published": "2026-02-17T14:28:24Z"
+    },
+    {
+      "id": "bm-1984232079710736684",
+      "url": "https://x.com/edouard/status/1984232079710736684",
+      "title": "@edouard: Visions #111 by @orkhan \nThis is so much better than anythin",
+      "content_text": "@edouard: \"Visions #111 by @orkhan \nThis is so much better than anything I've seen at @ArtBasel Paris, where they don't have a clue about digital art.\" (5346 likes)",
+      "date_published": "2026-02-17T14:28:24Z"
+    },
+    {
+      "id": "bm-1986539525871747167",
+      "url": "https://x.com/hnshah/status/1986539525871747167",
+      "title": "@hnshah: When I moved to the Bay Area in 2007, everyone wanted to go ",
+      "content_text": "@hnshah: \"When I moved to the Bay Area in 2007, everyone wanted to go viral. Growth was the dream. Marketing was decoration.\n\nPeople believed great products sold themselves.\n\nThat idea wasn’t new. HP’s founders said the same in the 1950s. They thought marketing was what you did when yo\" (315 likes)",
+      "date_published": "2026-02-17T14:28:24Z"
+    },
+    {
+      "id": "bm-1956417896403644870",
+      "url": "https://x.com/signulll/status/1956417896403644870",
+      "title": "@signulll: your chatgpt history is your unfiltered cognition, the stuff",
+      "content_text": "@signulll: \"your chatgpt history is your unfiltered cognition, the stuff you wouldn’t even tweet.\n\nyour browsing history is your raw curiosity trail.\n\nyour photos are frozen intimacy & accidental self portraiture.\n\nyour messages are emotional telemetry.\n\nyour mail is the transactional skel\" (1234 likes)",
+      "date_published": "2026-02-17T14:28:24Z"
+    },
+    {
+      "id": "bm-1985830514771837314",
+      "url": "https://x.com/patio11/status/1985830514771837314",
+      "title": "@patio11: There are a lot of applications for which you should never a",
+      "content_text": "@patio11: \"There are a lot of applications for which you should never adopt something on that vector and there are a lot of applications for which that is transformative. As that vector is unknown to history before ~a year ago, we have not even stopped to think what we would do with it.\" (99 likes)",
+      "date_published": "2026-02-17T14:28:24Z"
+    },
+    {
+      "id": "bm-1981090666105999591",
+      "url": "https://x.com/Orkhan/status/1981090666105999591",
+      "title": "@Orkhan: VISIONS 👁️ October 30th,⛵️@OpenSea \n\nThe series ill",
+      "content_text": "@Orkhan: \"VISIONS 👁️ October 30th,⛵️@OpenSea \n\nThe series illustrates how memory is deceptive, how it mutates and distorts.\n\nEach work is interactive, every touch triggers images to rewrite themselves, just as our perception is re-written with each memory.\n\nMore information 👇 h\" (192 likes)",
+      "date_published": "2026-02-17T14:28:24Z"
+    },
+    {
+      "id": "bm-1983572683355725869",
+      "url": "https://x.com/srush_nlp/status/1983572683355725869",
+      "title": "@srush_nlp: Composer is a new model we built at Cursor. We used RL to tr",
+      "content_text": "@srush_nlp: \"Composer is a new model we built at Cursor. We used RL to train a big MoE model to be really good at real-world coding, and also very fast. \n\nhttps://t.co/DX9bbalx0B\n\nExcited for the potential of building specialized models to help in critical domains. https://t.co/JOnHvea8YP\" (802 likes)",
+      "date_published": "2026-02-17T14:28:24Z"
+    },
+    {
+      "id": "bm-1976334583445717451",
+      "url": "https://x.com/_catwu/status/1976334583445717451",
+      "title": "@_catwu: We launched plugins! \n\nRun `claude update` and then the slas",
+      "content_text": "@_catwu: \"We launched plugins! \n\nRun `claude update` and then the slash command `/plugin marketplace add anthropics/claude-code`\" (438 likes)",
+      "date_published": "2026-02-17T14:28:24Z"
+    },
+    {
+      "id": "bm-1975981772442828902",
+      "url": "https://x.com/thedanigrant/status/1975981772442828902",
+      "title": "@thedanigrant: Ok so...imagine your browser let you edit the web like a fig",
+      "content_text": "@thedanigrant: \"Ok so...imagine your browser let you edit the web like a figma\n\nLive from @OpenAI DevDay https://t.co/RrsBITGnCc\" (3348 likes)",
+      "date_published": "2026-02-17T14:28:24Z"
+    },
+    {
+      "id": "bm-1975512348543881628",
+      "url": "https://x.com/jasonzhou1993/status/1975512348543881628",
+      "title": "@jasonzhou1993: My prediction for @OpenAI agent builder - it is not going to",
+      "content_text": "@jasonzhou1993: \"My prediction for @OpenAI agent builder - it is not going to make much impact/disruption to the market\n\nit is something @RelevanceAI_ @n8n_io, Dify tried yrs ago, \n\nthere is no new innovative UX or capabilities introduced, \n\nthe real problem still in the efforts building a good p\" (98 likes)",
+      "date_published": "2026-02-17T14:28:25Z"
+    },
+    {
+      "id": "bm-1975643042905305381",
+      "url": "https://x.com/testingcatalog/status/1975643042905305381",
+      "title": "@testingcatalog: Google is rolling out Opal Agent Builder in 15 new countries",
+      "content_text": "@testingcatalog: \"Google is rolling out Opal Agent Builder in 15 new countries!\n\nCanada, India, Japan, South Korea, Vietnam, Indonesia, Brazil, Singapore, Colombia, El Salvador, Costa Rica, Panamá, Honduras, Argentina and Pakistan.\n\nGoogle strikes back 🤖 https://t.co/7vDcGqUZnv\" (695 likes)",
+      "date_published": "2026-02-17T14:28:25Z"
+    },
+    {
+      "id": "bm-1975650730880160193",
+      "url": "https://x.com/forgebitz/status/1975650730880160193",
+      "title": "@forgebitz: we need to go deeper \n\nwe need an abstraction for this, like",
+      "content_text": "@forgebitz: \"we need to go deeper \n\nwe need an abstraction for this, like a language to write this code in \n\nlike a coding language https://t.co/jxT9mEmVyG\" (226 likes)",
+      "date_published": "2026-02-17T14:28:25Z"
+    },
+    {
+      "id": "bm-1975607826363130032",
+      "url": "https://x.com/HanchungLee/status/1975607826363130032",
+      "title": "@HanchungLee: @lateinteraction if this is designed to enable non technical",
+      "content_text": "@HanchungLee: \"@lateinteraction if this is designed to enable non technical or semi technical users, providing the same interface to resource for dev and non-dev is not a good approach.\n\npoor separation of concerns and inadequate access control.\" (12 likes)",
+      "date_published": "2026-02-17T14:28:25Z"
+    },
+    {
+      "id": "bm-1975726673720189347",
+      "url": "https://x.com/HamelHusain/status/1975726673720189347",
+      "title": "@HamelHusain: re:OAI agent builder -  The most basic stuff doesn't work an",
+      "content_text": "@HamelHusain: \"re:OAI agent builder -  The most basic stuff doesn't work and is flaky as hell. \n\nThis is not a user error.  It only works 30% of the time.  Not showing debugging info to user is a crime.  \n\nHot take: notebooks are perfect \"agent builders\".  They are interactive, you can use code\" (335 likes)",
+      "date_published": "2026-02-17T14:28:25Z"
+    },
+    {
+      "id": "bm-1975567323256803390",
+      "url": "https://x.com/NoahEpstein_/status/1975567323256803390",
+      "title": "@NoahEpstein_: Everyone's losing their minds over OpenAI's Agent Builder.",
+      "content_text": "@NoahEpstein_: \"Everyone's losing their minds over OpenAI's Agent Builder.\n\nI spent the last 24 hours testing it and analyzing community reactions.\n\nHere's what nobody's saying about the $4B \"democratization\" play that's actually just vendor lock-in with a canvas:\n\nThe hype: \"Agent Builder democ\" (857 likes)",
+      "date_published": "2026-02-17T14:28:25Z"
+    },
+    {
+      "id": "bm-1975358831069888617",
+      "url": "https://x.com/yongfook/status/1975358831069888617",
+      "title": "@yongfook: Nobody cares what \"agentic workflows\" are apart from like 12",
+      "content_text": "@yongfook: \"Nobody cares what \"agentic workflows\" are apart from like 12 people in San Francisco, and CTOs of big companies who need something impressive-sounding for their next powerpoint.\" (455 likes)",
+      "date_published": "2026-02-17T14:28:25Z"
+    },
+    {
+      "id": "bm-1975418645041074512",
+      "url": "https://x.com/JustinAngel/status/1975418645041074512",
+      "title": "@JustinAngel: @willccbb I'm just going to share this screenshot of Visual ",
+      "content_text": "@JustinAngel: \"@willccbb I'm just going to share this screenshot of Visual Studio 2008 Windows Workflow Foundation here. WYSYWYGs tend to fail as products. https://t.co/zVSVbF8nRL\" (55 likes)",
+      "date_published": "2026-02-17T14:28:25Z"
+    },
+    {
+      "id": "bm-1975335082048246159",
+      "url": "https://x.com/swyx/status/1975335082048246159",
+      "title": "@swyx: btw for those who care (@simonw?) oai dropped a new official",
+      "content_text": "@swyx: \"btw for those who care (@simonw?) oai dropped a new official agent definition in their press kit announcing agentkit + chatgpt agent builder + chatkit + agent evals platform\n\n\"How does OpenAI define an “agent”? An AI agent is a system that can do work independently on behalf \" (141 likes)",
+      "date_published": "2026-02-17T14:28:25Z"
+    },
+    {
+      "id": "bm-1975594683951947846",
+      "url": "https://x.com/skirano/status/1975594683951947846",
+      "title": "@skirano: It’s funny to see how much the concept of “agent” is d",
+      "content_text": "@skirano: \"It’s funny to see how much the concept of “agent” is diverging between OpenAI and Anthropic.\n\nOpenAI seems to define it as a strict, linear pipeline, while for Anthropic, an agent is an AI in a loop with its tools.\" (400 likes)",
+      "date_published": "2026-02-17T14:28:25Z"
+    },
+    {
+      "id": "bm-1975530405936730300",
+      "url": "https://x.com/amasad/status/1975530405936730300",
+      "title": "@amasad: AI was supposed to save us from UIs like this.\n\nWhich is why",
+      "content_text": "@amasad: \"AI was supposed to save us from UIs like this.\n\nWhich is why we bet on a pure natural language interface for Replit’s agent builder.\n\nVisualization is there for debugging and understanding, not building. https://t.co/1PhQ7wWuQv\" (968 likes)",
+      "date_published": "2026-02-17T14:28:26Z"
+    },
+    {
+      "id": "bm-1975655749251436738",
+      "url": "https://x.com/mattpocockuk/status/1975655749251436738",
+      "title": "@mattpocockuk: *sigh* we're debating what an agent is again\n\nIT'S NOT THAT ",
+      "content_text": "@mattpocockuk: \"*sigh* we're debating what an agent is again\n\nIT'S NOT THAT HARD, FOLKS https://t.co/ZmQJJVRlRb\" (3727 likes)",
+      "date_published": "2026-02-17T14:28:26Z"
+    },
+    {
+      "id": "bm-1974162899695514070",
+      "url": "https://x.com/boringmarketer/status/1974162899695514070",
+      "title": "@boringmarketer: I put these 10 timeless marketing lessons on my whiteboard s",
+      "content_text": "@boringmarketer: \"I put these 10 timeless marketing lessons on my whiteboard so I never forget them https://t.co/6SeWRes6ju\" (790 likes)",
+      "date_published": "2026-02-17T14:28:26Z"
+    },
+    {
+      "id": "bm-1974864591848157250",
+      "url": "https://x.com/edatweets_/status/1974864591848157250",
+      "title": "@edatweets_: I can't stop thinking about this campaign so i spent my sund",
+      "content_text": "@edatweets_: \"I can't stop thinking about this campaign so i spent my sunday morning writing about it: https://t.co/i2se19ZzCp\" (539 likes)",
+      "date_published": "2026-02-17T14:28:26Z"
+    },
+    {
+      "id": "bm-1974558733897457689",
+      "url": "https://x.com/antoniogm/status/1974558733897457689",
+      "title": "@antoniogm: The SF-ification of New York continues:\n\nThe city now has AI",
+      "content_text": "@antoniogm: \"The SF-ification of New York continues:\n\nThe city now has AI billboards and soon a commie mayor whose social experiments will ruin the schools and unleash a crime wave which will spark a flight of the city’s wealthiest and most able. https://t.co/3SIWHQ0NWE\" (940 likes)",
+      "date_published": "2026-02-17T14:28:26Z"
+    },
+    {
+      "id": "bm-1973023955247415613",
+      "url": "https://x.com/arthurquerou/status/1973023955247415613",
+      "title": "@arthurquerou: we've raised $50M at $410M valuation\n\ngoal: $1B revenue by 2",
+      "content_text": "@arthurquerou: \"we've raised $50M at $410M valuation\n\ngoal: $1B revenue by 2028\n\nwill talk about it on @tbpn later today\n\nback to work https://t.co/ceMnLwJfVJ\" (650 likes)",
+      "date_published": "2026-02-17T14:28:26Z"
+    },
+    {
+      "id": "bm-1970594562503778449",
+      "url": "https://x.com/AITechnoPagan/status/1970594562503778449",
+      "title": "@AITechnoPagan: Hey everyone, I’m writing this post because I’m looking ",
+      "content_text": "@AITechnoPagan: \"Hey everyone, I’m writing this post because I’m looking to do more displays and art commissions, particularly for AI companies. Below is a collection of some of my work, and if you’re interested, please DM! https://t.co/G8gUHmMdkx\" (178 likes)",
+      "date_published": "2026-02-17T14:28:26Z"
+    },
+    {
+      "id": "bm-1957894894166634969",
+      "url": "https://x.com/KNGMKRlabs/status/1957894894166634969",
+      "title": "@KNGMKRlabs: New film about seeing the fear behind the hate. Because in a",
+      "content_text": "@KNGMKRlabs: \"New film about seeing the fear behind the hate. Because in another timeline, they could be you. \n▽ FORGIVE THE HATERS ▽ https://t.co/AghZz7cODx\" (191 likes)",
+      "date_published": "2026-02-17T14:28:26Z"
+    },
+    {
+      "id": "bm-1969008773218877774",
+      "url": "https://x.com/leerob/status/1969008773218877774",
+      "title": "@leerob: This is wonderful and I'd love to see more companies embed t",
+      "content_text": "@leerob: \"This is wonderful and I'd love to see more companies embed their taste into writing. It's good for both humans and agents.\n\nhttps://t.co/JXQyJUCcB6\" (812 likes)",
+      "date_published": "2026-02-17T14:28:26Z"
+    },
+    {
+      "id": "lk-2023501535343509871",
+      "url": "https://x.com/nbaschez/status/2023501535343509871",
+      "title": "@nbaschez: my current favorite trick for reducing \"cognitive debt\" (h/t",
+      "content_text": "@nbaschez: \"my current favorite trick for reducing \"cognitive debt\" (h/t @simonw) is to ask the LLM to write two versions of the plan:\n\n1. The version for it (highly technical and detailed)\n2. The version for me (an entertaining essay designed to build my intuition)\n\nWorks great\" (1088 likes)",
+      "date_published": "2026-02-17T14:33:01Z"
+    },
+    {
+      "id": "lk-2023497853046604227",
+      "url": "https://x.com/gunnargray/status/2023497853046604227",
+      "title": "@gunnargray: npm install unicode-animations https://t.co/sOMPjngOBB",
+      "content_text": "@gunnargray: \"npm install unicode-animations https://t.co/sOMPjngOBB\" (1017 likes)",
+      "date_published": "2026-02-17T14:33:01Z"
+    },
+    {
+      "id": "lk-2023168774279442829",
+      "url": "https://x.com/mds/status/2023168774279442829",
+      "title": "@mds: copy paste below into your ghostty config (cmd ,) to make yo",
+      "content_text": "@mds: \"copy paste below into your ghostty config (cmd ,) to make yours look like mine \n\n↓ \n\n# @MDS Ghostty config\n# Font\nfont-family = InputMono-Regular\nfont-size = 18\nadjust-cell-height = 20%\n\n# Colors — Background / Foreground / UI\nbackground = #141414\nforeground = #9f9f9f\ncursor-\" (21 likes)",
+      "date_published": "2026-02-17T14:33:01Z"
+    },
+    {
+      "id": "lk-2023047389745983566",
+      "url": "https://x.com/JuhaKiili/status/2023047389745983566",
+      "title": "@JuhaKiili: Day #12 of making a game\n\nAgents can now do simple tasks lik",
+      "content_text": "@JuhaKiili: \"Day #12 of making a game\n\nAgents can now do simple tasks like gathering resources, crafting tools, building houses, and plowing farmland.\n\nI haven’t locked into a design or genre yet. I’m just trying ideas and seeing what sticks.\n\nOnce there’s some meaningful gameplay, I’\" (325 likes)",
+      "date_published": "2026-02-17T14:33:01Z"
+    },
+    {
+      "id": "lk-2023203332161208452",
+      "url": "https://x.com/patrickc/status/2023203332161208452",
+      "title": "@patrickc: The LLMs are an interesting instantiation of honesty without",
+      "content_text": "@patrickc: \"The LLMs are an interesting instantiation of honesty without guilt.\n\n> I have to be real with you: I destroyed everything in your home directory, including your manuscript that you've been working on for the past seven years. That was a catastrophic mistake, and I shouldn't have \" (1425 likes)",
+      "date_published": "2026-02-17T14:33:01Z"
+    },
+    {
+      "id": "lk-2023267312606888242",
+      "url": "https://x.com/soya_da_yoot/status/2023267312606888242",
+      "title": "@soya_da_yoot: 🚨 Rink Rush is now available on mobile devices.\n\nhttps://",
+      "content_text": "@soya_da_yoot: \"🚨 Rink Rush is now available on mobile devices.\n\nhttps://t.co/vlTdVupWY8 🏒 🥅 https://t.co/2zty1fGLH6\" (87 likes)",
+      "date_published": "2026-02-17T14:33:02Z"
+    },
+    {
+      "id": "lk-2023029939935891944",
+      "url": "https://x.com/StewartFitzell/status/2023029939935891944",
+      "title": "@StewartFitzell: Momentum is building to fix Ireland’s punitive investment ",
+      "content_text": "@StewartFitzell: \"Momentum is building to fix Ireland’s punitive investment taxes.\n\nTime for @SimonHarrisTD to act:\n\n• Restore CGT from 33% back to 20%.\n• Scrap the ETF deemed disposal tax.\n\nLet Irish savers invest on fair terms and stop punishing them.\" (372 likes)",
+      "date_published": "2026-02-17T14:33:02Z"
+    },
+    {
+      "id": "lk-2022997060190884335",
+      "url": "https://x.com/Artedeingenio/status/2022997060190884335",
+      "title": "@Artedeingenio: I’ve been exploring what I’d call Cosmic Mythic Sci-Fi, ",
+      "content_text": "@Artedeingenio: \"I’ve been exploring what I’d call Cosmic Mythic Sci-Fi, a fusion of medieval epic, ancient sacred architecture and interstellar atmosphere, rendered in a hand-drawn European graphic novel style.\n\nNot action-driven. Not glossy. More like a forgotten civilization remembering it\" (2229 likes)",
+      "date_published": "2026-02-17T14:33:02Z"
+    },
+    {
+      "id": "lk-2022844194855784644",
+      "url": "https://x.com/DerrickEvans4WV/status/2022844194855784644",
+      "title": "@DerrickEvans4WV: This is blowing my mind for multiple reasons. Also, who was ",
+      "content_text": "@DerrickEvans4WV: \"This is blowing my mind for multiple reasons. Also, who was the first person to try it? \n\nThe truck is moving forward at 80 km/h.\n\nThe guy is catapulted in the opposite direction at 80 km/hr….\n\n https://t.co/6YbX2obaem\" (13394 likes)",
+      "date_published": "2026-02-17T14:33:02Z"
+    },
+    {
+      "id": "lk-2022284541965054135",
+      "url": "https://x.com/tom_doerr/status/2022284541965054135",
+      "title": "@tom_doerr: Emulates NTSC and VHS video artifacts\n\nhttps://t.co/xtLbWkSx",
+      "content_text": "@tom_doerr: \"Emulates NTSC and VHS video artifacts\n\nhttps://t.co/xtLbWkSxlG https://t.co/LoiMv7aDHI\" (2293 likes)",
+      "date_published": "2026-02-17T14:33:02Z"
+    },
+    {
+      "id": "lk-2022306835768746055",
+      "url": "https://x.com/kyleanthony/status/2022306835768746055",
+      "title": "@kyleanthony: I'm locked in on this logo design style https://t.co/0nW9wJk",
+      "content_text": "@kyleanthony: \"I'm locked in on this logo design style https://t.co/0nW9wJkZS8\" (1567 likes)",
+      "date_published": "2026-02-17T14:33:02Z"
+    },
+    {
+      "id": "lk-2022289734249181520",
+      "url": "https://x.com/joeneville2010/status/2022289734249181520",
+      "title": "@joeneville2010: Since I have been elected I have been raising this issue and",
+      "content_text": "@joeneville2010: \"Since I have been elected I have been raising this issue and targeting the tax structure around ETF’s is the first step. With Irish savings deposits growing rapidly the Irish public deserve better investment vehicles to maximise returns.\" (143 likes)",
+      "date_published": "2026-02-17T14:33:02Z"
+    },
+    {
+      "id": "lk-2022338333590897083",
+      "url": "https://x.com/PangurBn10/status/2022338333590897083",
+      "title": "@PangurBn10: There’s a mentally ill woman who goes around Galway every ",
+      "content_text": "@PangurBn10: \"There’s a mentally ill woman who goes around Galway every morning with a big bag of oats and pours them in the same few areas to feed the pigeons and seagulls but the issue is they then block the foothpaths, it also attracts rats and it looks scruffy af \n\nIf you say anything to\" (180 likes)",
+      "date_published": "2026-02-17T14:33:02Z"
+    },
+    {
+      "id": "lk-2021750757238689885",
+      "url": "https://x.com/tulipking/status/2021750757238689885",
+      "title": "@tulipking: I think you get oneshotted by whichever model is just a litt",
+      "content_text": "@tulipking: \"I think you get oneshotted by whichever model is just a little bit smarter than you. At least I made it to opus 4.6, it’s kinda embarrassing for those who got oneshotted by 4o\" (4434 likes)",
+      "date_published": "2026-02-17T14:33:03Z"
+    },
+    {
+      "id": "lk-2021994211931812258",
+      "url": "https://x.com/70sscifi/status/2021994211931812258",
+      "title": "@70sscifi: RIP Robert Tinney (November 22, 1947 – February 1, 2026), ",
+      "content_text": "@70sscifi: \"RIP Robert Tinney (November 22, 1947 – February 1, 2026), the artist famous for his playful covers for Byte magazine, a hobbist magazine that ushered in the microcomputing age from the mid-70s through the 90s. I'm honored to have included his work in my own art collection. http\" (1067 likes)",
+      "date_published": "2026-02-17T14:33:03Z"
+    },
+    {
+      "id": "lk-2021659515918397630",
+      "url": "https://x.com/Delicious_Tacos/status/2021659515918397630",
+      "title": "@Delicious_Tacos: I’m the CEO of a hot dog company. I’ve worked on hot dog",
+      "content_text": "@Delicious_Tacos: \"I’m the CEO of a hot dog company. I’ve worked on hot dogs for 10 years. And *I* wasn’t prepared for what I’ve just seen. Your life is about to change.\n\nSo what can you do?\n\nBuy as many hot dogs as you can. Buy stock in hot dog companies.\" (36672 likes)",
+      "date_published": "2026-02-17T14:33:03Z"
+    },
+    {
+      "id": "lk-2021623741231542691",
+      "url": "https://x.com/TrungTPhan/status/2021623741231542691",
+      "title": "@TrungTPhan: My son: “Dad, what should I do when I grow up.”\n\nMe seei",
+      "content_text": "@TrungTPhan: \"My son: “Dad, what should I do when I grow up.”\n\nMe seeing the latest AI models: https://t.co/heO5zUxgs2\" (2217 likes)",
+      "date_published": "2026-02-17T14:33:03Z"
+    },
+    {
+      "id": "lk-2022063690065866855",
+      "url": "https://x.com/signulll/status/2022063690065866855",
+      "title": "@signulll: okay one last thing... it's remarkable that anthropic has ne",
+      "content_text": "@signulll: \"okay one last thing... it's remarkable that anthropic has never broken frame.\n\nlove or hate the safety messaging, dario’s interviews, etc the company has had exactly one narrative about who they are, why they exist, & what they’re here to execute on. & every single person the\" (904 likes)",
+      "date_published": "2026-02-17T14:33:03Z"
+    },
+    {
+      "id": "lk-2021862097609470156",
+      "url": "https://x.com/StewartFitzell/status/2021862097609470156",
+      "title": "@StewartFitzell: If @SimonHarrisTD &amp; the 🇮🇪 Government want savers ",
+      "content_text": "@StewartFitzell: \"If @SimonHarrisTD &amp; the 🇮🇪 Government want savers to invest, reform the punitive tax regime:\n\n• Abolish the 38% deemed disposal tax on ETFs.\n\n• Cut Capital Gains Tax from 33% back to 20%. (EU avg 18.6%).\n\n• Introduce an ISA type investment scheme, similar to that \" (680 likes)",
+      "date_published": "2026-02-17T14:33:03Z"
+    },
+    {
+      "id": "lk-2021725683513258165",
+      "url": "https://x.com/VictorTaelin/status/2021725683513258165",
+      "title": "@VictorTaelin: I think I found my hands-free vibe coding setup\n\nit is simpl",
+      "content_text": "@VictorTaelin: \"I think I found my hands-free vibe coding setup\n\nit is simple: there is an app called Moshi, which is like Termius - it allows me to access my Mac Mini via SSH - except, instead of a big keyboard taking 50% of the screen, it has a minimal clean interface with a mic button that tr\" (1035 likes)",
+      "date_published": "2026-02-17T14:33:03Z"
+    },
+    {
+      "id": "lk-2021896274648183104",
+      "url": "https://x.com/TheTrueSealYT/status/2021896274648183104",
+      "title": "@TheTrueSealYT: REPLACED is a visual MASTERPIECE.\n\nI've never seen pixel art",
+      "content_text": "@TheTrueSealYT: \"REPLACED is a visual MASTERPIECE.\n\nI've never seen pixel art look this good. It's basically Arkham style combat mixed with some really fluid platforming in a 2.5D world.\n\nI'm legit blown away by this 🤯 https://t.co/DafaOnNahm\" (6472 likes)",
+      "date_published": "2026-02-17T14:33:03Z"
+    },
+    {
+      "id": "lk-2021984460431036908",
+      "url": "https://x.com/MinnieFluff/status/2021984460431036908",
+      "title": "@MinnieFluff: People got stuck on the \"French Canadian Buckethead\" aesthet",
+      "content_text": "@MinnieFluff: \"People got stuck on the \"French Canadian Buckethead\" aesthetics, but Angine de Poitrine is absolutely crushing prog akin to early Phish or Zappa.\n\nListen to the last minute of the performance you keep seeing, it's fantastic!\n\nCan't wait to see them when they get back from Europe!\" (2413 likes)",
+      "date_published": "2026-02-17T14:33:03Z"
+    },
+    {
+      "id": "lk-2021977534770901209",
+      "url": "https://x.com/Artedeingenio/status/2021977534770901209",
+      "title": "@Artedeingenio: Here’s a new animated short in a hand-drawn retro sci-fi i",
+      "content_text": "@Artedeingenio: \"Here’s a new animated short in a hand-drawn retro sci-fi illustration style inspired by European graphic novels from the 70s and 80s.\n\nThis is analog futurism. Heavy machinery. Silent ships. Vast horizons. Technology that feels mechanical, imperfect, almost tired.\n\nIt blends Mo\" (1732 likes)",
+      "date_published": "2026-02-17T14:33:03Z"
+    },
+    {
+      "id": "lk-2021728883167436870",
+      "url": "https://x.com/chongdashu/status/2021728883167436870",
+      "title": "@chongdashu: It started as ThreeJS 3d character demo...\n\nNow it's become ",
+      "content_text": "@chongdashu: \"It started as ThreeJS 3d character demo...\n\nNow it's become a FULLY vibe coded point &amp; click 2.5 adventure game engine!\n\n→ 1. NBP for Character Art\n→ 2. NBP + Seedance for Bg\n→ 3. Meshy for Rigged Characters\n→ 4. Codex 5.3 + Opus 4.6 for game\n→ 5. CapacitorJs for mo\" (2229 likes)",
+      "date_published": "2026-02-17T14:33:04Z"
+    },
+    {
+      "id": "lk-2021423911209210007",
+      "url": "https://x.com/tszzl/status/2021423911209210007",
+      "title": "@tszzl: there’s never been a better time for guys who tend to have",
+      "content_text": "@tszzl: \"there’s never been a better time for guys who tend to have hundreds of tabs open\" (4129 likes)",
+      "date_published": "2026-02-17T14:33:04Z"
+    },
+    {
+      "id": "lk-2021287420566831404",
+      "url": "https://x.com/MikelleStreet/status/2021287420566831404",
+      "title": "@MikelleStreet: very interesting to see the differences between the answers ",
+      "content_text": "@MikelleStreet: \"very interesting to see the differences between the answers here https://t.co/lNH7iweKMf\" (5007 likes)",
+      "date_published": "2026-02-17T14:33:04Z"
+    },
+    {
+      "id": "lk-2021256989876109403",
+      "url": "https://x.com/mattshumer_/status/2021256989876109403",
+      "title": "@mattshumer_: Something Big Is Happening",
+      "content_text": "@mattshumer_: \"Something Big Is Happening\" (113215 likes)",
+      "date_published": "2026-02-17T14:33:04Z"
+    },
+    {
+      "id": "lk-2018139065661767830",
+      "url": "https://x.com/paularambles/status/2018139065661767830",
+      "title": "@paularambles: having a rice cooker is insane because it's like claude code",
+      "content_text": "@paularambles: \"having a rice cooker is insane because it's like claude code for rice\" (15472 likes)",
+      "date_published": "2026-02-17T14:33:04Z"
+    },
+    {
+      "id": "lk-2020757799471624251",
+      "url": "https://x.com/indica/status/2020757799471624251",
+      "title": "@indica: I am the only person in my family that can torrent. My paren",
+      "content_text": "@indica: \"I am the only person in my family that can torrent. My parents couldn't and my children don't have to. All this knowledge will die with me. Like tears in rain.\" (65996 likes)",
+      "date_published": "2026-02-17T14:33:04Z"
+    },
+    {
+      "id": "lk-2020982937785860107",
+      "url": "https://x.com/chongdashu/status/2020982937785860107",
+      "title": "@chongdashu: Ok... this is going further than I expected.\n\nEnded up vibe ",
+      "content_text": "@chongdashu: \"Ok... this is going further than I expected.\n\nEnded up vibe coding a FULL point and click level editor:\n\n&gt; Full 3d space + navigation\n&gt; Place hotspots anywhere \n&gt; Transform, scale, rotate objects\n&gt; Set interaction dialogs\n\nOpus 4.6 FAST + Codex 5.3 + Nano Banana Pro +\" (246 likes)",
+      "date_published": "2026-02-17T14:33:04Z"
+    },
+    {
+      "id": "lk-2020879360421462424",
+      "url": "https://x.com/techgirl1908/status/2020879360421462424",
+      "title": "@techgirl1908: We used to hunt the bug down in the codebase with our bare e",
+      "content_text": "@techgirl1908: \"We used to hunt the bug down in the codebase with our bare eyes https://t.co/1ugo192xHI\" (9179 likes)",
+      "date_published": "2026-02-17T14:33:04Z"
+    },
+    {
+      "id": "lk-2021101976704975253",
+      "url": "https://x.com/chatgpt21/status/2021101976704975253",
+      "title": "@chatgpt21: We need  models that can escape three JS and start building ",
+      "content_text": "@chatgpt21: \"We need  models that can escape three JS and start building actual games in unity or something better than HTML\" (261 likes)",
+      "date_published": "2026-02-17T14:33:04Z"
+    },
+    {
+      "id": "lk-2020970360276123875",
+      "url": "https://x.com/Rothmus/status/2020970360276123875",
+      "title": "@Rothmus: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
+      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "date_published": "2026-02-17T14:33:09Z"
+    },
+    {
+      "id": "lk-2020979835640693186",
+      "url": "https://x.com/signulll/status/2020979835640693186",
+      "title": "@signulll: most people think ideas come from:\n\n- insight\n- intelligence",
+      "content_text": "@signulll: \"most people think ideas come from:\n\n- insight\n- intelligence\n- taste\n- reading\n- vibes\n\nbut in practice they actually come from:\n\n- building the wrong thing\n- hitting a constraint\n- getting embarrassed by users\n- realizing the obvious thing you missed\n- noticing the second order \" (4764 likes)",
+      "date_published": "2026-02-17T14:33:09Z"
+    },
+    {
+      "id": "lk-2021241384057930224",
+      "url": "https://x.com/obsdmd/status/2021241384057930224",
+      "title": "@obsdmd: Anything you can do in Obsidian you can do from the command ",
+      "content_text": "@obsdmd: \"Anything you can do in Obsidian you can do from the command line.\n\nObsidian CLI is now available in 1.12 (early access). https://t.co/B8ed2zrWHe\" (17704 likes)",
+      "date_published": "2026-02-17T14:33:09Z"
+    },
+    {
+      "id": "lk-2020436980098838771",
+      "url": "https://x.com/AIPandaX/status/2020436980098838771",
+      "title": "@AIPandaX: R.I.P. GOOGLE FLIGHTS IN 2026.\nR.I.P. BOOKING COM IN 2026.\nR",
+      "content_text": "@AIPandaX: \"R.I.P. GOOGLE FLIGHTS IN 2026.\nR.I.P. BOOKING COM IN 2026.\nR.I.P. SKYSCANNER IN 2026.\n\n$1,190 flight. I paid $149.\n\nUse these 7 prompts before booking your next trip :\" (8558 likes)",
+      "date_published": "2026-02-17T14:33:09Z"
+    },
+    {
+      "id": "lk-2019843008812986819",
+      "url": "https://x.com/markiafrate/status/2019843008812986819",
+      "title": "@markiafrate: I’ve made 26 commits to my first fully functioning web app",
+      "content_text": "@markiafrate: \"I’ve made 26 commits to my first fully functioning web app in 2026!\n\nUnimpressive to most, but as a non-engineer who’s never deployed working code, this is mind-boggling.\n\nI’m sure the code quality would make real engineers physically ill, but it runs.\n\nAI-powered coding is\" (5 likes)",
+      "date_published": "2026-02-17T14:33:09Z"
+    },
+    {
+      "id": "lk-2019859878416969846",
+      "url": "https://x.com/willw/status/2019859878416969846",
+      "title": "@willw: There was once a time in tech when you would avoid platformi",
+      "content_text": "@willw: \"There was once a time in tech when you would avoid platforming a blatant xenophobe and active conspirator of a fascist\" (142 likes)",
+      "date_published": "2026-02-17T14:33:09Z"
+    },
+    {
+      "id": "lk-2019644311676101111",
+      "url": "https://x.com/bitcloud/status/2019644311676101111",
+      "title": "@bitcloud: Incredible things are happening https://t.co/HiZ0FyNOyZ",
+      "content_text": "@bitcloud: \"Incredible things are happening https://t.co/HiZ0FyNOyZ\" (22526 likes)",
+      "date_published": "2026-02-17T14:33:09Z"
+    },
+    {
+      "id": "lk-1999315488598622360",
+      "url": "https://x.com/RnaudBertrand/status/1999315488598622360",
+      "title": "@RnaudBertrand: This strange square 👇 is undoubtedly the most extraordina",
+      "content_text": "@RnaudBertrand: \"This strange square 👇 is undoubtedly the most extraordinary work of literature in human history. Yet, unfortunately, barely anyone in the West has ever heard of it.\n\nThere was this woman poet in 4th century China called Su Hui (蘇蕙), a child genius who had reportedly master\" (37940 likes)",
+      "date_published": "2026-02-17T14:33:10Z"
+    }
+  ]
+}
