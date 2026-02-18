@@ -13,7 +13,7 @@
     {
       "id": "W65N6RD87tw2QDGL7Q52Ez",
       "url": "https://summarize.sh/",
-      "title": "summarize \u2014 CLI + Chrome Side Panel for fast summaries",
+      "title": "summarize — CLI + Chrome Side Panel for fast summaries",
       "content_text": "A CLI tool and Chrome Side Panel for fast summaries of URLs, PDFs, videos, and podcasts. Supports multiple LLM providers with a real extraction pipeline using Readability, markitdown, and Firecrawl fallback.",
       "date_published": "2026-02-16T17:00:00Z"
     },
@@ -21,14 +21,14 @@
       "id": "Vkt2qaJwSLnUqdRAs6rVSj",
       "url": "https://grainrad.com/",
       "title": "Grainrad",
-      "content_text": "A free WebGPU-powered browser tool delivering ASCII art, dithering, and retro visual effects at 60fps. No installation required \u2014 runs entirely in the browser.",
+      "content_text": "A free WebGPU-powered browser tool delivering ASCII art, dithering, and retro visual effects at 60fps. No installation required — runs entirely in the browser.",
       "date_published": "2026-02-16T17:00:00Z"
     },
     {
       "id": "244hqCMhLEqhRfkufb7p41",
       "url": "https://grainrad.com/",
       "title": "Grainrad",
-      "content_text": "A free WebGPU-powered browser tool delivering ASCII art, dithering, and retro visual effects at 60fps. Duplicate entry \u2014 same as above.",
+      "content_text": "A free WebGPU-powered browser tool delivering ASCII art, dithering, and retro visual effects at 60fps. Duplicate entry — same as above.",
       "date_published": "2026-02-16T17:00:00Z"
     },
     {
@@ -49,14 +49,14 @@
       "id": "MhRbkKbcTYjPJzdw339ggx",
       "url": "https://public.work/",
       "title": "Public Work by Cosmos",
-      "content_text": "A search engine for public domain content \u2014 explore 100,000+ copyright-free images from The MET, New York Public Library, and other sources.",
+      "content_text": "A search engine for public domain content — explore 100,000+ copyright-free images from The MET, New York Public Library, and other sources.",
       "date_published": "2026-02-16T17:00:00Z"
     },
     {
       "id": "2WKmmTAGVLuuh7AJjX1SCQ",
       "url": "https://www.dive.club/ideas/introducing-the-ai-systems-designer",
-      "title": "Dive \u2014 Introducing the AI Systems Designer",
-      "content_text": "On the emerging role of AI systems designer \u2014 prototyping AI features, establishing guardrails for dynamic interfaces, and empowering AI to use design systems. Features interview with Jordan Singer at Figma.",
+      "title": "Dive — Introducing the AI Systems Designer",
+      "content_text": "On the emerging role of AI systems designer — prototyping AI features, establishing guardrails for dynamic interfaces, and empowering AI to use design systems. Features interview with Jordan Singer at Figma.",
       "date_published": "2026-02-16T17:00:00Z"
     },
     {
@@ -77,7 +77,7 @@
       "id": "HTbQESTQtg1rZR7z9LoRF5",
       "url": "https://www.latent.space/p/build-ai-ux",
       "title": "It's Time To Build AI | UX",
-      "content_text": "A showcase of AI/UX demo projects from the first AI|UX event, featuring mindmapping canvases, AI writing apps, generative UI plugins, and AI Zettelkasten \u2014 all exploring interaction paradigms beyond chatbots.",
+      "content_text": "A showcase of AI/UX demo projects from the first AI|UX event, featuring mindmapping canvases, AI writing apps, generative UI plugins, and AI Zettelkasten — all exploring interaction paradigms beyond chatbots.",
       "date_published": "2026-02-16T17:00:00Z"
     },
     {
@@ -111,8 +111,8 @@
     {
       "id": "KNw9vnfiXm6JHGkXHANQBu",
       "url": "https://www.brendanschlagel.com/blogroll/",
-      "title": "Blogroll \u2013 Brendan Schlagel",
-      "content_text": "A curated list of interesting people on the internet \u2014 writers, makers, and thinkers \u2014 including Bret Victor, Craig Mod, Frank Chimero, Kevin Kelly, Robin Sloan, and many more.",
+      "title": "Blogroll – Brendan Schlagel",
+      "content_text": "A curated list of interesting people on the internet — writers, makers, and thinkers — including Bret Victor, Craig Mod, Frank Chimero, Kevin Kelly, Robin Sloan, and many more.",
       "date_published": "2026-02-16T17:00:00Z"
     },
     {
@@ -126,7 +126,7 @@
       "id": "GWsCMiMUzMeSeHdrDdhA9C",
       "url": "https://adjacentpossible.substack.com/p/capturing-and-colliding",
       "title": "Capturing and Colliding",
-      "content_text": "Steven Johnson on the tradition of commonplace books \u2014 personal archives of quotes and ideas dating back to Milton and Locke. Traces his journey from HyperCard to digital note-taking, arguing reading and writing are inseparable.",
+      "content_text": "Steven Johnson on the tradition of commonplace books — personal archives of quotes and ideas dating back to Milton and Locke. Traces his journey from HyperCard to digital note-taking, arguing reading and writing are inseparable.",
       "date_published": "2026-02-16T17:00:00Z"
     },
     {
@@ -168,7 +168,7 @@
       "id": "7WmVxv1DLu8LKBf1C96mUo",
       "url": "https://x.com/geoffreylitt/status/2019415997120410075",
       "title": "@geoffreylitt: Is software dead? (4-part series)",
-      "content_text": "Geoffrey Litt's 4-part blog series on malleable software in the age of LLMs \u2014 why GUIs still matter and how spreadsheets illuminate the path forward.",
+      "content_text": "Geoffrey Litt's 4-part blog series on malleable software in the age of LLMs — why GUIs still matter and how spreadsheets illuminate the path forward.",
       "date_published": "2026-02-16T18:00:00Z"
     },
     {
@@ -224,7 +224,7 @@
       "id": "UESYFUXo4wNEcqyBJgb25e",
       "url": "https://x.com/bcherny/status/2007179861115511237",
       "title": "@bcherny: Claude Code verification tip",
-      "content_text": "Give Claude a way to verify its work \u2014 feedback loops 2-3x the quality of results.",
+      "content_text": "Give Claude a way to verify its work — feedback loops 2-3x the quality of results.",
       "date_published": "2026-02-16T18:00:00Z"
     },
     {
@@ -245,7 +245,7 @@
       "id": "DxgqQjjHPq3ZCQLjfhRe9r",
       "url": "https://twitter.com/kracov/status/1514266881946923016",
       "title": "@kracov: Dock",
-      "content_text": "Dock \u2014 a collaboration platform for working with people outside your company.",
+      "content_text": "Dock — a collaboration platform for working with people outside your company.",
       "date_published": "2026-02-16T18:00:00Z"
     },
     {
@@ -273,7 +273,7 @@
       "id": "XRivNEyX8qFvvrZcAQtJr4",
       "url": "https://github.com/obra/the-elements-of-style/blob/main/skills/writing-clearly-and-concisely/elements-of-style.md",
       "title": "Elements of Style",
-      "content_text": "A Claude Code skill by Jesse Vincent that enforces Strunk & White writing principles \u2014 clarity, concision, and active voice \u2014 as an automated editing pass on your writing.",
+      "content_text": "A Claude Code skill by Jesse Vincent that enforces Strunk & White writing principles — clarity, concision, and active voice — as an automated editing pass on your writing.",
       "date_published": "2026-02-17T09:59:09Z"
     },
     {
@@ -300,7 +300,7 @@
     {
       "id": "bm-2023151176758268349",
       "url": "https://x.com/dani_avila7/status/2023151176758268349",
-      "title": "@dani_avila7: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w\u2026",
+      "title": "@dani_avila7: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
       "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
       "date_published": "2026-02-17T14:27:44Z"
     },
@@ -308,7 +308,7 @@
       "id": "bm-2023119295425761702",
       "url": "https://x.com/malinvested/status/2023119295425761702",
       "title": "@malinvested: Of course that's your contention. You're a first-time SaaS b",
-      "content_text": "@malinvested: \"Of course that's your contention. You're a first-time SaaS bear. You just got finished listening to some podcast, Dario on Dwarkesh, probably. Now you think it\u2019s the end of white collar work and seat-based pricing is screwed. You're gonna be convinced of that til tomorrow when \" (10901 likes)",
+      "content_text": "@malinvested: \"Of course that's your contention. You're a first-time SaaS bear. You just got finished listening to some podcast, Dario on Dwarkesh, probably. Now you think it’s the end of white collar work and seat-based pricing is screwed. You're gonna be convinced of that til tomorrow when \" (10901 likes)",
       "date_published": "2026-02-17T14:28:05Z"
     },
     {
@@ -335,22 +335,22 @@
     {
       "id": "bm-2021588678099751328",
       "url": "https://x.com/n1babc/status/2021588678099751328",
-      "title": "@n1babc: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w\u2026",
+      "title": "@n1babc: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
       "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
       "date_published": "2026-02-17T14:28:10Z"
     },
     {
       "id": "bm-2017024445244924382",
       "url": "https://x.com/trq212/status/2017024445244924382",
-      "title": "@trq212: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w\u2026",
+      "title": "@trq212: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
       "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
       "date_published": "2026-02-17T14:28:14Z"
     },
     {
       "id": "bm-2021253509828505823",
       "url": "https://x.com/Artedeingenio/status/2021253509828505823",
-      "title": "@Artedeingenio: I\u2019ve created this hand-drawn retrofuturistic sci-fi short ",
-      "content_text": "@Artedeingenio: \"I\u2019ve created this hand-drawn retrofuturistic sci-fi short in the style of European graphic novel illustration, focused on atmosphere, stillness, and lived-in technology.\n\nThe workflow is exactly the same one I used for the other short with a retrofuturistic, industrial, post-hu\" (2021 likes)",
+      "title": "@Artedeingenio: I’ve created this hand-drawn retrofuturistic sci-fi short ",
+      "content_text": "@Artedeingenio: \"I’ve created this hand-drawn retrofuturistic sci-fi short in the style of European graphic novel illustration, focused on atmosphere, stillness, and lived-in technology.\n\nThe workflow is exactly the same one I used for the other short with a retrofuturistic, industrial, post-hu\" (2021 likes)",
       "date_published": "2026-02-17T14:28:14Z"
     },
     {
@@ -364,7 +364,7 @@
       "id": "bm-2019484169915572452",
       "url": "https://x.com/DKThomp/status/2019484169915572452",
       "title": "@DKThomp: for me the odds that AI is a bubble declined significantly i",
-      "content_text": "@DKThomp: \"for me the odds that AI is a bubble declined significantly in the last 3 weeks and the odds that we\u2019re actually quite under-built for the necessary levels of inference/usage went significantly up in that period \n\nbasically I think AI is going to become the home screen of a ludi\" (4666 likes)",
+      "content_text": "@DKThomp: \"for me the odds that AI is a bubble declined significantly in the last 3 weeks and the odds that we’re actually quite under-built for the necessary levels of inference/usage went significantly up in that period \n\nbasically I think AI is going to become the home screen of a ludi\" (4666 likes)",
       "date_published": "2026-02-17T14:28:14Z"
     },
     {
@@ -377,21 +377,21 @@
     {
       "id": "bm-2017702095437369707",
       "url": "https://x.com/bruce_CQT/status/2017702095437369707",
-      "title": "@bruce_CQT: self-correcting agent from Tensorlake \ud83e\udd16 project w/ @ayush",
-      "content_text": "@bruce_CQT: \"self-correcting agent from Tensorlake \ud83e\udd16 project w/ @ayushsoni_io &amp; https://t.co/8Fc1Huxb46\n\nbuilt in @rive_app https://t.co/R2WK8Lns4B\" (1629 likes)",
+      "title": "@bruce_CQT: self-correcting agent from Tensorlake 🤖 project w/ @ayush",
+      "content_text": "@bruce_CQT: \"self-correcting agent from Tensorlake 🤖 project w/ @ayushsoni_io &amp; https://t.co/8Fc1Huxb46\n\nbuilt in @rive_app https://t.co/R2WK8Lns4B\" (1629 likes)",
       "date_published": "2026-02-17T14:28:14Z"
     },
     {
       "id": "bm-2015897796990402800",
       "url": "https://x.com/BlendiByl/status/2015897796990402800",
       "title": "@BlendiByl: Generate sprite sheets for ANY character and test the animat",
-      "content_text": "@BlendiByl: \"Generate sprite sheets for ANY character and test the animation in a 2D side-scroller map! \ud83d\udc7e https://t.co/ojw4VYCe7L\" (1304 likes)",
+      "content_text": "@BlendiByl: \"Generate sprite sheets for ANY character and test the animation in a 2D side-scroller map! 👾 https://t.co/ojw4VYCe7L\" (1304 likes)",
       "date_published": "2026-02-17T14:28:14Z"
     },
     {
       "id": "bm-2015327280911073789",
       "url": "https://x.com/heyshrutimishra/status/2015327280911073789",
-      "title": "@heyshrutimishra: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w\u2026",
+      "title": "@heyshrutimishra: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
       "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
       "date_published": "2026-02-17T14:28:19Z"
     },
@@ -399,14 +399,14 @@
       "id": "bm-2010021203948494939",
       "url": "https://x.com/chongdashu/status/2010021203948494939",
       "title": "@chongdashu: Want to know how to vibe code games like these?\n\n- ThreeJS C",
-      "content_text": "@chongdashu: \"Want to know how to vibe code games like these?\n\n- ThreeJS Claude Code / Codex Agent Skills\n- Nano Bana Pro \n- Game Design + Technical Design Specs\n- Opus 4.5 / Gpt 5.2 \n\nHere's my FULL step-by-step workflow \ud83d\udc47\n\nSource code + agent .mds + playable links in reply https://t.co/At\" (1643 likes)",
+      "content_text": "@chongdashu: \"Want to know how to vibe code games like these?\n\n- ThreeJS Claude Code / Codex Agent Skills\n- Nano Bana Pro \n- Game Design + Technical Design Specs\n- Opus 4.5 / Gpt 5.2 \n\nHere's my FULL step-by-step workflow 👇\n\nSource code + agent .mds + playable links in reply https://t.co/At\" (1643 likes)",
       "date_published": "2026-02-17T14:28:19Z"
     },
     {
       "id": "bm-2006147267959644303",
       "url": "https://x.com/RohunJauhar/status/2006147267959644303",
-      "title": "@RohunJauhar: for any CEO using claude code \u2014 here's a single prompt tha",
-      "content_text": "@RohunJauhar: \"for any CEO using claude code \u2014 here's a single prompt that builds your entire 2026 personal productivity system.\n\nannual planning, weekly reviews, etc.. one-shot copy/paste, come back 1 hour later, and start using immediately.\n__ __ \nI want you to autonomously build a PERSONAL\" (4309 likes)",
+      "title": "@RohunJauhar: for any CEO using claude code — here's a single prompt tha",
+      "content_text": "@RohunJauhar: \"for any CEO using claude code — here's a single prompt that builds your entire 2026 personal productivity system.\n\nannual planning, weekly reviews, etc.. one-shot copy/paste, come back 1 hour later, and start using immediately.\n__ __ \nI want you to autonomously build a PERSONAL\" (4309 likes)",
       "date_published": "2026-02-17T14:28:23Z"
     },
     {
@@ -419,8 +419,8 @@
     {
       "id": "bm-1997351463878574363",
       "url": "https://x.com/signulll/status/1997351463878574363",
-      "title": "@signulll: my contrarian take is that ai doesn\u2019t disintermediate juni",
-      "content_text": "@signulll: \"my contrarian take is that ai doesn\u2019t disintermediate juniors\u2026 it disintermediates seniors who no longer can or won\u2019t build.\n\nsimply because a massive fraction of senior ppl have spent the last decade doing meta work instead of work work. they\u2019ve been marinating in meetin\" (1146 likes)",
+      "title": "@signulll: my contrarian take is that ai doesn’t disintermediate juni",
+      "content_text": "@signulll: \"my contrarian take is that ai doesn’t disintermediate juniors… it disintermediates seniors who no longer can or won’t build.\n\nsimply because a massive fraction of senior ppl have spent the last decade doing meta work instead of work work. they’ve been marinating in meetin\" (1146 likes)",
       "date_published": "2026-02-17T14:28:23Z"
     },
     {
@@ -434,7 +434,7 @@
       "id": "bm-1993803743733928214",
       "url": "https://x.com/EricBuess/status/1993803743733928214",
       "title": "@EricBuess: claude update\n\nclaude\n\n/model -&gt; opus\n\n/plugin marketplac",
-      "content_text": "@EricBuess: \"claude update\n\nclaude\n\n/model -&gt; opus\n\n/plugin marketplace add anthropics/claude-code\n\n/plugin install frontend-design@claude-code-plugins\n\nshift+tab until you see plan mode\n\n\u201cUse the frontend-design skill to [describe what you want to build]\u201d\n\n\ud83d\udd25\n\n@claudeai @AnthropicAI\" (1911 likes)",
+      "content_text": "@EricBuess: \"claude update\n\nclaude\n\n/model -&gt; opus\n\n/plugin marketplace add anthropics/claude-code\n\n/plugin install frontend-design@claude-code-plugins\n\nshift+tab until you see plan mode\n\n“Use the frontend-design skill to [describe what you want to build]”\n\n🔥\n\n@claudeai @AnthropicAI\" (1911 likes)",
       "date_published": "2026-02-17T14:28:23Z"
     },
     {
@@ -462,14 +462,14 @@
       "id": "bm-1986539525871747167",
       "url": "https://x.com/hnshah/status/1986539525871747167",
       "title": "@hnshah: When I moved to the Bay Area in 2007, everyone wanted to go ",
-      "content_text": "@hnshah: \"When I moved to the Bay Area in 2007, everyone wanted to go viral. Growth was the dream. Marketing was decoration.\n\nPeople believed great products sold themselves.\n\nThat idea wasn\u2019t new. HP\u2019s founders said the same in the 1950s. They thought marketing was what you did when yo\" (315 likes)",
+      "content_text": "@hnshah: \"When I moved to the Bay Area in 2007, everyone wanted to go viral. Growth was the dream. Marketing was decoration.\n\nPeople believed great products sold themselves.\n\nThat idea wasn’t new. HP’s founders said the same in the 1950s. They thought marketing was what you did when yo\" (315 likes)",
       "date_published": "2026-02-17T14:28:24Z"
     },
     {
       "id": "bm-1956417896403644870",
       "url": "https://x.com/signulll/status/1956417896403644870",
       "title": "@signulll: your chatgpt history is your unfiltered cognition, the stuff",
-      "content_text": "@signulll: \"your chatgpt history is your unfiltered cognition, the stuff you wouldn\u2019t even tweet.\n\nyour browsing history is your raw curiosity trail.\n\nyour photos are frozen intimacy & accidental self portraiture.\n\nyour messages are emotional telemetry.\n\nyour mail is the transactional skel\" (1234 likes)",
+      "content_text": "@signulll: \"your chatgpt history is your unfiltered cognition, the stuff you wouldn’t even tweet.\n\nyour browsing history is your raw curiosity trail.\n\nyour photos are frozen intimacy & accidental self portraiture.\n\nyour messages are emotional telemetry.\n\nyour mail is the transactional skel\" (1234 likes)",
       "date_published": "2026-02-17T14:28:24Z"
     },
     {
@@ -482,8 +482,8 @@
     {
       "id": "bm-1981090666105999591",
       "url": "https://x.com/Orkhan/status/1981090666105999591",
-      "title": "@Orkhan: VISIONS \ud83d\udc41\ufe0f October 30th,\u26f5\ufe0f@OpenSea \n\nThe series ill",
-      "content_text": "@Orkhan: \"VISIONS \ud83d\udc41\ufe0f October 30th,\u26f5\ufe0f@OpenSea \n\nThe series illustrates how memory is deceptive, how it mutates and distorts.\n\nEach work is interactive, every touch triggers images to rewrite themselves, just as our perception is re-written with each memory.\n\nMore information \ud83d\udc47 h\" (192 likes)",
+      "title": "@Orkhan: VISIONS 👁️ October 30th,⛵️@OpenSea \n\nThe series ill",
+      "content_text": "@Orkhan: \"VISIONS 👁️ October 30th,⛵️@OpenSea \n\nThe series illustrates how memory is deceptive, how it mutates and distorts.\n\nEach work is interactive, every touch triggers images to rewrite themselves, just as our perception is re-written with each memory.\n\nMore information 👇 h\" (192 likes)",
       "date_published": "2026-02-17T14:28:24Z"
     },
     {
@@ -518,7 +518,7 @@
       "id": "bm-1975643042905305381",
       "url": "https://x.com/testingcatalog/status/1975643042905305381",
       "title": "@testingcatalog: Google is rolling out Opal Agent Builder in 15 new countries",
-      "content_text": "@testingcatalog: \"Google is rolling out Opal Agent Builder in 15 new countries!\n\nCanada, India, Japan, South Korea, Vietnam, Indonesia, Brazil, Singapore, Colombia, El Salvador, Costa Rica, Panam\u00e1, Honduras, Argentina and Pakistan.\n\nGoogle strikes back \ud83e\udd16 https://t.co/7vDcGqUZnv\" (695 likes)",
+      "content_text": "@testingcatalog: \"Google is rolling out Opal Agent Builder in 15 new countries!\n\nCanada, India, Japan, South Korea, Vietnam, Indonesia, Brazil, Singapore, Colombia, El Salvador, Costa Rica, Panamá, Honduras, Argentina and Pakistan.\n\nGoogle strikes back 🤖 https://t.co/7vDcGqUZnv\" (695 likes)",
       "date_published": "2026-02-17T14:28:25Z"
     },
     {
@@ -567,21 +567,21 @@
       "id": "bm-1975335082048246159",
       "url": "https://x.com/swyx/status/1975335082048246159",
       "title": "@swyx: btw for those who care (@simonw?) oai dropped a new official",
-      "content_text": "@swyx: \"btw for those who care (@simonw?) oai dropped a new official agent definition in their press kit announcing agentkit + chatgpt agent builder + chatkit + agent evals platform\n\n\"How does OpenAI define an \u201cagent\u201d? An AI agent is a system that can do work independently on behalf \" (141 likes)",
+      "content_text": "@swyx: \"btw for those who care (@simonw?) oai dropped a new official agent definition in their press kit announcing agentkit + chatgpt agent builder + chatkit + agent evals platform\n\n\"How does OpenAI define an “agent”? An AI agent is a system that can do work independently on behalf \" (141 likes)",
       "date_published": "2026-02-17T14:28:25Z"
     },
     {
       "id": "bm-1975594683951947846",
       "url": "https://x.com/skirano/status/1975594683951947846",
-      "title": "@skirano: It\u2019s funny to see how much the concept of \u201cagent\u201d is d",
-      "content_text": "@skirano: \"It\u2019s funny to see how much the concept of \u201cagent\u201d is diverging between OpenAI and Anthropic.\n\nOpenAI seems to define it as a strict, linear pipeline, while for Anthropic, an agent is an AI in a loop with its tools.\" (400 likes)",
+      "title": "@skirano: It’s funny to see how much the concept of “agent” is d",
+      "content_text": "@skirano: \"It’s funny to see how much the concept of “agent” is diverging between OpenAI and Anthropic.\n\nOpenAI seems to define it as a strict, linear pipeline, while for Anthropic, an agent is an AI in a loop with its tools.\" (400 likes)",
       "date_published": "2026-02-17T14:28:25Z"
     },
     {
       "id": "bm-1975530405936730300",
       "url": "https://x.com/amasad/status/1975530405936730300",
       "title": "@amasad: AI was supposed to save us from UIs like this.\n\nWhich is why",
-      "content_text": "@amasad: \"AI was supposed to save us from UIs like this.\n\nWhich is why we bet on a pure natural language interface for Replit\u2019s agent builder.\n\nVisualization is there for debugging and understanding, not building. https://t.co/1PhQ7wWuQv\" (968 likes)",
+      "content_text": "@amasad: \"AI was supposed to save us from UIs like this.\n\nWhich is why we bet on a pure natural language interface for Replit’s agent builder.\n\nVisualization is there for debugging and understanding, not building. https://t.co/1PhQ7wWuQv\" (968 likes)",
       "date_published": "2026-02-17T14:28:26Z"
     },
     {
@@ -609,7 +609,7 @@
       "id": "bm-1974558733897457689",
       "url": "https://x.com/antoniogm/status/1974558733897457689",
       "title": "@antoniogm: The SF-ification of New York continues:\n\nThe city now has AI",
-      "content_text": "@antoniogm: \"The SF-ification of New York continues:\n\nThe city now has AI billboards and soon a commie mayor whose social experiments will ruin the schools and unleash a crime wave which will spark a flight of the city\u2019s wealthiest and most able. https://t.co/3SIWHQ0NWE\" (940 likes)",
+      "content_text": "@antoniogm: \"The SF-ification of New York continues:\n\nThe city now has AI billboards and soon a commie mayor whose social experiments will ruin the schools and unleash a crime wave which will spark a flight of the city’s wealthiest and most able. https://t.co/3SIWHQ0NWE\" (940 likes)",
       "date_published": "2026-02-17T14:28:26Z"
     },
     {
@@ -622,15 +622,15 @@
     {
       "id": "bm-1970594562503778449",
       "url": "https://x.com/AITechnoPagan/status/1970594562503778449",
-      "title": "@AITechnoPagan: Hey everyone, I\u2019m writing this post because I\u2019m looking ",
-      "content_text": "@AITechnoPagan: \"Hey everyone, I\u2019m writing this post because I\u2019m looking to do more displays and art commissions, particularly for AI companies. Below is a collection of some of my work, and if you\u2019re interested, please DM! https://t.co/G8gUHmMdkx\" (178 likes)",
+      "title": "@AITechnoPagan: Hey everyone, I’m writing this post because I’m looking ",
+      "content_text": "@AITechnoPagan: \"Hey everyone, I’m writing this post because I’m looking to do more displays and art commissions, particularly for AI companies. Below is a collection of some of my work, and if you’re interested, please DM! https://t.co/G8gUHmMdkx\" (178 likes)",
       "date_published": "2026-02-17T14:28:26Z"
     },
     {
       "id": "bm-1957894894166634969",
       "url": "https://x.com/KNGMKRlabs/status/1957894894166634969",
       "title": "@KNGMKRlabs: New film about seeing the fear behind the hate. Because in a",
-      "content_text": "@KNGMKRlabs: \"New film about seeing the fear behind the hate. Because in another timeline, they could be you. \n\u25bd FORGIVE THE HATERS \u25bd https://t.co/AghZz7cODx\" (191 likes)",
+      "content_text": "@KNGMKRlabs: \"New film about seeing the fear behind the hate. Because in another timeline, they could be you. \n▽ FORGIVE THE HATERS ▽ https://t.co/AghZz7cODx\" (191 likes)",
       "date_published": "2026-02-17T14:28:26Z"
     },
     {
@@ -639,6 +639,34 @@
       "title": "@leerob: This is wonderful and I'd love to see more companies embed t",
       "content_text": "@leerob: \"This is wonderful and I'd love to see more companies embed their taste into writing. It's good for both humans and agents.\n\nhttps://t.co/JXQyJUCcB6\" (812 likes)",
       "date_published": "2026-02-17T14:28:26Z"
+    },
+    {
+      "id": "bm-2023878178264244556",
+      "url": "https://x.com/sbuss/status/2023878178264244556",
+      "title": "@sbuss: There is no moat. I need to replace a small set of stairs, s",
+      "content_text": "@sbuss: \"There is no moat. I need to replace a small set of stairs, so naturally I built a little app to help me. And by that, I mean claude built it. All of it. I didn't write a single line of code. The future is just people saying \"I need to do X\" and the model gives you a fully built a\" (57 likes)",
+      "date_published": "2026-02-18T08:02:34Z"
+    },
+    {
+      "id": "bm-2023210247914156471",
+      "url": "https://x.com/tdinh_me/status/2023210247914156471",
+      "title": "@tdinh_me: A new type of software is emerging: a folder full of text fi",
+      "content_text": "@tdinh_me: \"A new type of software is emerging: a folder full of text files containing instructions that can be run on any AI agent system.\" (370 likes)",
+      "date_published": "2026-02-18T08:02:34Z"
+    },
+    {
+      "id": "bm-2023626173654200404",
+      "url": "https://x.com/bbssppllvv/status/2023626173654200404",
+      "title": "@bbssppllvv: Quick ASCII wireframe prototyping tool https://t.co/88pTy32O",
+      "content_text": "@bbssppllvv: \"Quick ASCII wireframe prototyping tool https://t.co/88pTy32Olz https://t.co/7p9aNMFqik\" (3205 likes)",
+      "date_published": "2026-02-18T08:02:34Z"
+    },
+    {
+      "id": "bm-2023823975143665918",
+      "url": "https://x.com/mitchellh/status/2023823975143665918",
+      "title": "@mitchellh: Ghostty will now auto-generate a full, cohesive 256-color th",
+      "content_text": "@mitchellh: \"Ghostty will now auto-generate a full, cohesive 256-color theme from just the base 16-color palette. This makes it significantly easier to make custom themes that are beautiful (just define 16 colors). See the demo below showing multiple themes fully generated.\n\nThanks to Jake St\" (2640 likes)",
+      "date_published": "2026-02-18T08:02:34Z"
     }
   ]
 }
