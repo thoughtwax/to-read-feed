@@ -685,8 +685,8 @@
     {
       "id": "bm-2024574133011673516",
       "url": "https://x.com/trq212/status/2024574133011673516",
-      "title": "@trq212: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
-      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "title": "Grainrad — WebGPU retro graphics tool",
+      "content_text": "WebGPU-powered retro graphics tool: ASCII art, dithering, and retro visual effects at 60fps in-browser. No install needed.",
       "date_published": "2026-02-20T08:58:28Z"
     },
     {
@@ -695,6 +695,27 @@
       "title": "@joshpuckett: DialKit is a framework for live tuning any parameter in your",
       "content_text": "@joshpuckett: \"DialKit is a framework for live tuning any parameter in your app.\n\nSee changes instantly, test different value sets with presets, then copy a prompt for your agent.\n\nAvailable for free today. https://t.co/q2KxWSeMBH\" (1181 likes)",
       "date_published": "2026-02-20T08:58:28Z"
+    },
+    {
+      "id": "bm-2024417519789101518",
+      "url": "https://x.com/ponnappa/status/2024417519789101518",
+      "title": "@ponnappa: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
+      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "date_published": "2026-02-21T08:14:53Z"
+    },
+    {
+      "id": "bm-2024167043726029042",
+      "url": "https://x.com/poetengineer__/status/2024167043726029042",
+      "title": "@poetengineer__: exploring shapes of thoughts:  extracted my obsidian notes' ",
+      "content_text": "@poetengineer__: \"exploring shapes of thoughts:  extracted my obsidian notes' embeddings and arranges them as a 3d network using 3 different topologies:\n  - centralized: one core idea connecting all\n  - decentralized: notes cluster into themed hubs\n  - distributed: edges labeled by llm describing \" (11257 likes)",
+      "date_published": "2026-02-21T08:14:53Z"
+    },
+    {
+      "id": "bm-2024431499265585249",
+      "url": "https://x.com/isnit0/status/2024431499265585249",
+      "title": "@isnit0: Since I posted this video, I've had three different people r",
+      "content_text": "@isnit0: \"Since I posted this video, I've had three different people representing various groups of museums reach out to me asking to collaborate.\n\nThe app took 2 hours to vibe-code on Sunday afternoon.\n\nWe're so early / You can just do stuff / build in public\" (4463 likes)",
+      "date_published": "2026-02-21T08:14:53Z"
     }
   ]
 }
