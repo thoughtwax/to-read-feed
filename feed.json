@@ -737,6 +737,90 @@
       "title": "@karpathy: Bought a new Mac mini to properly tinker with claws over the",
       "content_text": "@karpathy: \"Bought a new Mac mini to properly tinker with claws over the weekend. The apple store person told me they are selling like hotcakes and everyone is confused :)\n\nI'm definitely a bit sus'd to run OpenClaw specifically - giving my private data/keys to 400K lines of vibe coded monst\" (14692 likes)",
       "date_published": "2026-02-22T08:01:12Z"
+    },
+    {
+      "id": "bm-2025700084919173479",
+      "url": "https://x.com/thekitze/status/2025700084919173479",
+      "title": "@thekitze: why are there only like 4 split screen co-op games i can pla",
+      "content_text": "@thekitze: \"why are there only like 4 split screen co-op games i can play with my wife -_-\n\ncan u give some recs pls \n\n(and skip overcooked, a way out, it takes two, split fiction, because duh)\" (128 likes)",
+      "date_published": "2026-02-23T08:00:08Z"
+    },
+    {
+      "id": "bm-2025644253691461653",
+      "url": "https://x.com/almonk/status/2025644253691461653",
+      "title": "@almonk: here's my file explorer companion for agent uis in the termi",
+      "content_text": "@almonk: \"here's my file explorer companion for agent uis in the terminal. gives you quick access to copy paths and see changes agents are making across a codebase.\n\nit has mouse support, live git status, flat and hierarchical search, theme support, resposive to small widths. works really \" (151 likes)",
+      "date_published": "2026-02-23T08:00:08Z"
+    },
+    {
+      "id": "bm-2025659433750233410",
+      "url": "https://x.com/andrewmccalip/status/2025659433750233410",
+      "title": "@andrewmccalip: @tenobrus https://t.co/Iehjw0k0XC",
+      "content_text": "@andrewmccalip: \"@tenobrus https://t.co/Iehjw0k0XC\" (21 likes)",
+      "date_published": "2026-02-23T08:00:08Z"
+    },
+    {
+      "id": "bm-2025670076465299698",
+      "url": "https://x.com/tenobrus/status/2025670076465299698",
+      "title": "@tenobrus: few of these have anything to do with \"companies will just v",
+      "content_text": "@tenobrus: \"few of these have anything to do with \"companies will just vibecode their own versions of the saas\" btw. that's basically just retool. the rest are based on ~local personal agents fundamentally changing the nature of work.\" (170 likes)",
+      "date_published": "2026-02-23T08:00:08Z"
+    },
+    {
+      "id": "bm-2025667429431714239",
+      "url": "https://x.com/tenobrus/status/2025667429431714239",
+      "title": "@tenobrus: based off simple assumptions:\n- coding agents keep getting b",
+      "content_text": "@tenobrus: \"based off simple assumptions:\n- coding agents keep getting better, software keeps getting cheaper and easier to make\n- personal agents work and proliferate, ~everyone has access to the equivalent of a competent fulltime PA\n- labs increasingly enter the application layer\" (257 likes)",
+      "date_published": "2026-02-23T08:00:08Z"
+    },
+    {
+      "id": "bm-2025648199898407345",
+      "url": "https://x.com/tenobrus/status/2025648199898407345",
+      "title": "@tenobrus: gigafucked:\n- grammarly\n- calendly\n- miro\n- retool \n- webflo",
+      "content_text": "@tenobrus: \"gigafucked:\n- grammarly\n- calendly\n- miro\n- retool \n- webflow\n- langchain\n- writer\n- harvey\n- glean\n- expedia\n- monday\n\nfucked:\n- accenture\n- intuit\n- notion\n- jasper\n- canva\n- alphasense\n- postman\n- airtable\n- talkdesk\n- sierra\n- zapier\n- replit\n- solace\n\nprobably fucked:\n- curs\" (5579 likes)",
+      "date_published": "2026-02-23T08:00:08Z"
+    },
+    {
+      "id": "bm-2025269556877590751",
+      "url": "https://x.com/sanghendrix96/status/2025269556877590751",
+      "title": "@sanghendrix96: A trick to make your RPG Maker games look more fabulous.\n\nPl",
+      "content_text": "@sanghendrix96: \"A trick to make your RPG Maker games look more fabulous.\n\nPlugin used: https://t.co/9mAHXuJDva\n\n#RPGツクールMZ https://t.co/VYkoNnD2i1\" (388 likes)",
+      "date_published": "2026-02-23T08:00:09Z"
+    },
+    {
+      "id": "bm-2025263156897907102",
+      "url": "https://x.com/dr_cintas/status/2025263156897907102",
+      "title": "@dr_cintas: \"This sounds like AI\" is now easily fixable 🤯\n\nThere is a",
+      "content_text": "@dr_cintas: \"\"This sounds like AI\" is now easily fixable 🤯\n\nThere is a new Claude Code Skill that removes signs of AI-generated writing from text using 24 detection patterns.\n\nJust type /humanizer and paste your text.\n\n100% Open Source. https://t.co/C0JrEBodaV\" (2449 likes)",
+      "date_published": "2026-02-23T08:00:09Z"
+    },
+    {
+      "id": "bm-2025243266715893922",
+      "url": "https://x.com/erenbali/status/2025243266715893922",
+      "title": "@erenbali: Every technical founder who had stopped coding 10 years ago ",
+      "content_text": "@erenbali: \"Every technical founder who had stopped coding 10 years ago https://t.co/bWHU9opSaO\" (7497 likes)",
+      "date_published": "2026-02-23T08:00:09Z"
+    },
+    {
+      "id": "bm-2025527448536756311",
+      "url": "https://x.com/nonzeroexitcode/status/2025527448536756311",
+      "title": "@nonzeroexitcode: you don't need threejs for this effect\n\njust apply `perspect",
+      "content_text": "@nonzeroexitcode: \"you don't need threejs for this effect\n\njust apply `perspective` to the container and animate each image with `translate3d(...)` over time, where depth is something like  `z = z0 + speed * dt` and the rest is handled by the browser\n\neasy to map opacity or scroll to speed too http\" (1373 likes)",
+      "date_published": "2026-02-23T08:00:09Z"
+    },
+    {
+      "id": "bm-2025311882610200946",
+      "url": "https://x.com/domesticetch/status/2025311882610200946",
+      "title": "@domesticetch: @michalmalewicz In 2026 you can spot AI writing from across ",
+      "content_text": "@domesticetch: \"@michalmalewicz In 2026 you can spot AI writing from across the room. Short staccato sentences. Lists with exactly three items. Parallel phrasing.\" (181 likes)",
+      "date_published": "2026-02-23T08:00:09Z"
+    },
+    {
+      "id": "bm-2024504707197354367",
+      "url": "https://x.com/rsms/status/2024504707197354367",
+      "title": "@rsms: There used to be two playbooks for commercial software:\na) b",
+      "content_text": "@rsms: \"There used to be two playbooks for commercial software:\na) be first to market\nb) make the best product\n\nBeing first was rarely important, yet so many software companies operate this way. “We must ship by this time next month or we’ll lose.” A shallow way to build, in my opi\" (605 likes)",
+      "date_published": "2026-02-23T08:00:09Z"
     }
   ]
 }
