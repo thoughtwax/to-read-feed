@@ -842,6 +842,20 @@
       "title": "@karpathy: CLIs are super exciting precisely because they are a \"legacy",
       "content_text": "@karpathy: \"CLIs are super exciting precisely because they are a \"legacy\" technology, which means AI agents can natively and easily use them, combine them, interact with them via the entire terminal toolkit.\n\nE.g ask your Claude/Codex agent to install this new Polymarket CLI and ask for any \" (8382 likes)",
       "date_published": "2026-02-25T08:49:28Z"
+    },
+    {
+      "id": "2xBwsqtTpMjPrrYBVeeuci",
+      "url": "https://replay.software/guides/remote-agents",
+      "title": "Control Your Coding Agents from your iPhone — Echo Guide — Replay Software",
+      "content_text": "Control Your Coding Agents from your iPhone\nA step-by-step guide to running Claude Code, Codex, and other AI coding agents on your Mac and accessing them from your iPhone or iPad with Echo, Tailscale, and Mosh.\n• Enable Remote Login on your Mac\n• Start a Zellij session\n• Reattach from another device\n• Use Mosh for bulletproof connections\n• Tips for the best experience\n• The future is pocketable\nOne of the most powerful ways to use Echo is as a mobile interface for AI coding agents. Y",
+      "date_published": "2026-02-25T11:28:58Z"
+    },
+    {
+      "id": "4UjNnesepjPVtXDzZNDasK",
+      "url": "https://castro.fm/episode/vhaDkD",
+      "title": "Ask me to discuss this more. I have notes on this somewhere ",
+      "content_text": "The most important book you never read – its legacy.\nWhat is the legacy of \"The Limits to Growth\"? How did the Meadows navigate the aftermath of their groundbreaking work? We explore Dana Meadows' life after publication, and the resonance of her pioneering ideas.\nAs our world stands at the precipice of escalating environmental crises, this episode uncovers how the warnings of this work resonate - although they focused on \"patterns, not predictions\", some parts of their baseline scenario can be",
+      "date_published": "2026-02-25T11:29:07Z"
     }
   ]
 }
