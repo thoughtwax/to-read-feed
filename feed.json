@@ -821,6 +821,27 @@
       "title": "@rsms: There used to be two playbooks for commercial software:\na) b",
       "content_text": "@rsms: \"There used to be two playbooks for commercial software:\na) be first to market\nb) make the best product\n\nBeing first was rarely important, yet so many software companies operate this way. “We must ship by this time next month or we’ll lose.” A shallow way to build, in my opi\" (605 likes)",
       "date_published": "2026-02-23T08:00:09Z"
+    },
+    {
+      "id": "bm-2026272102761030067",
+      "url": "https://x.com/AlphaSignalAI/status/2026272102761030067",
+      "title": "@AlphaSignalAI: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
+      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "date_published": "2026-02-25T08:49:24Z"
+    },
+    {
+      "id": "bm-2026009225663750512",
+      "url": "https://x.com/charlierguo/status/2026009225663750512",
+      "title": "@charlierguo: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
+      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "date_published": "2026-02-25T08:49:28Z"
+    },
+    {
+      "id": "bm-2026360908398862478",
+      "url": "https://x.com/karpathy/status/2026360908398862478",
+      "title": "@karpathy: CLIs are super exciting precisely because they are a \"legacy",
+      "content_text": "@karpathy: \"CLIs are super exciting precisely because they are a \"legacy\" technology, which means AI agents can natively and easily use them, combine them, interact with them via the entire terminal toolkit.\n\nE.g ask your Claude/Codex agent to install this new Polymarket CLI and ask for any \" (8382 likes)",
+      "date_published": "2026-02-25T08:49:28Z"
     }
   ]
 }
