@@ -851,11 +851,39 @@
       "date_published": "2026-02-25T11:28:58Z"
     },
     {
+      "id": "PRWFrSx2oeCkNWR73KfDpV",
+      "url": "https://x.com/chrispainteryup/status/2025356956857499923",
+      "title": "@ChrisPainterYup: RTS games as metaphor",
+      "content_text": "@ChrisPainterYup: \"I liked real-time strategy games more as a kid when I thought they were about building a cool castle you're proud of. I like them less as an adult now that I realize they're all about optimizing actions-per-second.\" (2867 likes)",
+      "date_published": "2026-02-25T12:30:00Z"
+    },
+    {
+      "id": "DTRM6j5amwqPzbnyBPZKsb",
+      "url": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
+      "title": "Child's Play — Sam Kriss on Roy Lee, Cluely, and Silicon Valley's agency doctrine",
+      "content_text": "Sam Kriss profiles Roy Lee (Cluely founder, Columbia dropout) and the Silicon Valley doctrine that 'agency' — the willingness to simply do things — matters more than intelligence or skill. Features Eric Zhu (ran $20M VC fund at 14), the rationalist movement's role in spawning the AI arms race, and the profound emptiness beneath the hustle: Lee admits he'd 'be happy dying at any age past twenty-five' if he could make $3M/year.",
+      "date_published": "2026-02-25T12:30:00Z"
+    },
+    {
       "id": "4UjNnesepjPVtXDzZNDasK",
       "url": "https://castro.fm/episode/vhaDkD",
       "title": "Ask me to discuss this more. I have notes on this somewhere ",
       "content_text": "The most important book you never read – its legacy.\nWhat is the legacy of \"The Limits to Growth\"? How did the Meadows navigate the aftermath of their groundbreaking work? We explore Dana Meadows' life after publication, and the resonance of her pioneering ideas.\nAs our world stands at the precipice of escalating environmental crises, this episode uncovers how the warnings of this work resonate - although they focused on \"patterns, not predictions\", some parts of their baseline scenario can be",
       "date_published": "2026-02-25T11:29:07Z"
+    },
+    {
+      "id": "bm-2026748993821356125",
+      "url": "https://x.com/karrisaarinen/status/2026748993821356125",
+      "title": "@karrisaarinen: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
+      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "date_published": "2026-02-26T08:40:21Z"
+    },
+    {
+      "id": "bm-2026710957272207490",
+      "url": "https://x.com/AravSrinivas/status/2026710957272207490",
+      "title": "@AravSrinivas: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
+      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "date_published": "2026-02-26T08:49:52Z"
     }
   ]
 }
