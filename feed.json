@@ -884,6 +884,62 @@
       "title": "@AravSrinivas: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
       "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
       "date_published": "2026-02-26T08:49:52Z"
+    },
+    {
+      "id": "T2kwCCHQZNQqaR1pEvp63U",
+      "url": "https://x.com/mrjain/status/2026854565077995651?s=12",
+      "title": "@mrjain: 3. Install the PowerPoint and Wealth Management plugins\nhttps://t.co/Q8AAcaJpty",
+      "content_text": "@mrjain: \"3. Install the PowerPoint and Wealth Management plugins\nhttps://t.co/Q8AAcaJpty\nhttps://t.co/7KxnyFnJRv\n[4/12]\" (117 likes)",
+      "date_published": "2026-02-27T08:00:44Z"
+    },
+    {
+      "id": "bm-2026803022135964102",
+      "url": "https://x.com/seanxthielen/status/2026803022135964102",
+      "title": "@seanxthielen: \"Dignified Technology\" is the framework that I came up with ",
+      "content_text": "@seanxthielen: \"\"Dignified Technology\" is the framework that I came up with to guide how I build creative tools, including an AI writing tool that won't write for you:\n• Framework overview\n• Applying \"Dignified Technology\" to Hermes\n• @claudeai Agent Skill for auditing your own product htt\" (44 likes)",
+      "date_published": "2026-02-27T09:26:38Z"
+    },
+    {
+      "id": "bm-2026934304782348724",
+      "url": "https://x.com/nicopreme/status/2026934304782348724",
+      "title": "@nicopreme: Added slide deck mode to the \"Visual Explainer\" skill. Allow",
+      "content_text": "@nicopreme: \"Added slide deck mode to the \"Visual Explainer\" skill. Allows your agent to generate polished presentation-ready slideshows. Just ask for slides or use /generate-slides.\n\nhttps://t.co/qzde42tVEV https://t.co/y2n5595VeN\" (196 likes)",
+      "date_published": "2026-02-27T09:26:39Z"
+    },
+    {
+      "id": "bm-2027135590777725101",
+      "url": "https://x.com/bnj/status/2027135590777725101",
+      "title": "@bnj: My favorite style so far: --sref a7eeb4\n\nDithers, halftones,",
+      "content_text": "@bnj: \"My favorite style so far: --sref a7eeb4\n\nDithers, halftones, and ASCII\n\nPaste the code into @variantui and try it yourself https://t.co/lXQHP0ImlB\" (1024 likes)",
+      "date_published": "2026-02-27T09:26:39Z"
+    },
+    {
+      "id": "bm-2027149792078713214",
+      "url": "https://x.com/jasonyuan/status/2027149792078713214",
+      "title": "@jasonyuan: Dot was deeply loved by the people who worked on it. We expr",
+      "content_text": "@jasonyuan: \"Dot was deeply loved by the people who worked on it. We expressed that love through careful curation and editing, through spending months iterating on and developing an intuition for the material.\n\nHowever, it was simultaneously was very much a product of the old “Apple” styl\" (440 likes)",
+      "date_published": "2026-02-27T09:26:39Z"
+    },
+    {
+      "id": "bm-2026758999488528639",
+      "url": "https://x.com/NousResearch/status/2026758999488528639",
+      "title": "@NousResearch: Hermes Agent runs in your CLI and through messaging platform",
+      "content_text": "@NousResearch: \"Hermes Agent runs in your CLI and through messaging platforms like Telegram, WhatsApp, Slack, and Discord - picking up and transferring sessions wherever you go.\n\nhttps://t.co/Nmtkn77UP2\n\nIt has advanced agentic capabilities: command over subagents, programmatic tool calling, adv\" (327 likes)",
+      "date_published": "2026-02-27T09:26:39Z"
+    },
+    {
+      "id": "bm-2027053193654419538",
+      "url": "https://x.com/itseieio/status/2027053193654419538",
+      "title": "@itseieio: ssh is an obscure but widely-deployed command. It stands for",
+      "content_text": "@itseieio: \"ssh is an obscure but widely-deployed command. It stands for Secure Snake Home and was made in the 90s to securely play snake online\n\nI made a massively multiplayer backend for it with support for thousands of concurrent snake players\n\nssh snakes dot run to join! https://t.co/LLJ\" (3392 likes)",
+      "date_published": "2026-02-27T09:26:39Z"
+    },
+    {
+      "id": "bm-2026805755848864110",
+      "url": "https://x.com/gucaslelfond/status/2026805755848864110",
+      "title": "@gucaslelfond: for the release of the Whole Earth Redux, I OCRed/indexed/em",
+      "content_text": "@gucaslelfond: \"for the release of the Whole Earth Redux, I OCRed/indexed/embedded all 22,000 pages of the Whole Earth Catalog and built a searchable archive — it’s up at https://t.co/RR8iSSC9Oo ! https://t.co/iwATqH0Fnb\" (770 likes)",
+      "date_published": "2026-02-27T09:26:39Z"
     }
   ]
 }
