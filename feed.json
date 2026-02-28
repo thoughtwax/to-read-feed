@@ -940,6 +940,41 @@
       "title": "@gucaslelfond: for the release of the Whole Earth Redux, I OCRed/indexed/em",
       "content_text": "@gucaslelfond: \"for the release of the Whole Earth Redux, I OCRed/indexed/embedded all 22,000 pages of the Whole Earth Catalog and built a searchable archive — it’s up at https://t.co/RR8iSSC9Oo ! https://t.co/iwATqH0Fnb\" (770 likes)",
       "date_published": "2026-02-27T09:26:39Z"
+    },
+    {
+      "id": "QLpM552YrRScsV27gdGYkG",
+      "url": "https://alphajams.com/",
+      "title": "Learn How to Jam - Alpha Jams",
+      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "date_published": "2026-02-28T08:29:49Z"
+    },
+    {
+      "id": "bm-2027285397013745853",
+      "url": "https://x.com/_chenglou/status/2027285397013745853",
+      "title": "@_chenglou: Apple's been the master of designing the last device of its ",
+      "content_text": "@_chenglou: \"Apple's been the master of designing the last device of its category: the last phone, the last mp3 player, tablet, earbuds, laptop, game-like software interactions\n\nIt's been horrible at designing the first device of its category (Newton, Vision Pro, new software paradigm)\n\nI wil\" (61 likes)",
+      "date_published": "2026-02-28T08:58:35Z"
+    },
+    {
+      "id": "bm-2027270061820657843",
+      "url": "https://x.com/ybhrdwj/status/2027270061820657843",
+      "title": "@ybhrdwj: signs of taste in web ui:\n\n> every interaction happens in 10",
+      "content_text": "@ybhrdwj: \"signs of taste in web ui:\n\n> every interaction happens in 100ms\n> no product tours\n> url /slugs are short and simple, no UIDs\n> persistent resumeable state\n> not more than 3 colors\n> no visible scrollbars\n> all navigation is under 3 steps\n> copyable svg logo + brandkit\n> skeleton\" (2523 likes)",
+      "date_published": "2026-02-28T08:58:35Z"
+    },
+    {
+      "id": "bm-2027419120258683344",
+      "url": "https://x.com/benjitaylor/status/2027419120258683344",
+      "title": "@benjitaylor: Readout is a fully native macOS app I’ve been building for",
+      "content_text": "@benjitaylor: \"Readout is a fully native macOS app I’ve been building for myself. It provides a real-time overview of your dev environment and Claude Code config. All local, no account required. It's still very much a beta, but now available to try: https://t.co/gpKj1KCpcM https://t.co/R14grc\" (2057 likes)",
+      "date_published": "2026-02-28T08:58:36Z"
+    },
+    {
+      "id": "bm-2026729219154378912",
+      "url": "https://x.com/lawrencecchen/status/2026729219154378912",
+      "title": "@lawrencecchen: Introducing cmux: the open-source terminal built for coding ",
+      "content_text": "@lawrencecchen: \"Introducing cmux: the open-source terminal built for coding agents.\n\n- Vertical tabs\n- Blue rings around panes that need attention\n- Built-in browser\n- Based on Ghostty\n\nWhen Claude Code needs you, the pane glows blue and the sidebar tells you why.\n\nNo Electron/Tauri. Just Swift/\" (1992 likes)",
+      "date_published": "2026-02-28T08:58:36Z"
     }
   ]
 }
