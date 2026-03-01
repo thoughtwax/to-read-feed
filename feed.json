@@ -975,6 +975,13 @@
       "title": "@lawrencecchen: Introducing cmux: the open-source terminal built for coding ",
       "content_text": "@lawrencecchen: \"Introducing cmux: the open-source terminal built for coding agents.\n\n- Vertical tabs\n- Blue rings around panes that need attention\n- Built-in browser\n- Based on Ghostty\n\nWhen Claude Code needs you, the pane glows blue and the sidebar tells you why.\n\nNo Electron/Tauri. Just Swift/\" (1992 likes)",
       "date_published": "2026-02-28T08:58:36Z"
+    },
+    {
+      "id": "74GTcTopfoo4SYgjwSyMen",
+      "url": "https://www.newyorker.com/humor/shouts-murmurs/is-this-waymo-a-better-person-than-you",
+      "title": "Is This Waymo a Better Person Than You? | The New Yorker",
+      "content_text": "You don’t want to make assumptions, but it did come to a complete stop at the stop sign. Not a California stop—a stop during which time actually passes. You feel this, and experience a slight internal recalibration, like when someone else puts their shopping cart back and you realize you’d been hoping that no one would notice that you hadn’t.\nThis Waymo seems comfortable with ambiguity. You are not. When a pedestrian approaches the crosswalk, the Waymo slows—even though the pedestrian ",
+      "date_published": "2026-03-01T08:45:49Z"
     }
   ]
 }
