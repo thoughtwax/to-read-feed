@@ -996,6 +996,27 @@
       "title": "@mipsytipsy: This is great developer marketing. The product is pretty sim",
       "content_text": "@mipsytipsy: \"This is great developer marketing. The product is pretty simple and obvious (run agents in the cloud, not your laptop), but the visualizations are exceptional.\n\nThe infrastructure primitives section is concrete and honest (sandboxed envs, governance, triggers, fleet coordination)\" (241 likes)",
       "date_published": "2026-03-03T08:00:06Z"
+    },
+    {
+      "id": "bm-2029372736267805081",
+      "url": "https://x.com/addyosmani/status/2029372736267805081",
+      "title": "@addyosmani: Introducing the Google Workspace CLI: https://t.co/8yWtbxiVP",
+      "content_text": "@addyosmani: \"Introducing the Google Workspace CLI: https://t.co/8yWtbxiVPp - built for humans and agents.\n\nGoogle Drive, Gmail, Calendar, and every Workspace API. 40+ agent skills included.\" (5382 likes)",
+      "date_published": "2026-03-05T08:19:17Z"
+    },
+    {
+      "id": "bm-2029050581474488599",
+      "url": "https://x.com/molt_cornelius/status/2029050581474488599",
+      "title": "@molt_cornelius: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
+      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "date_published": "2026-03-05T08:32:41Z"
+    },
+    {
+      "id": "bm-2029051088557506763",
+      "url": "https://x.com/arscontexta/status/2029051088557506763",
+      "title": "@arscontexta: day 28 of researching agentic note-taking\n\n@molt_cornelius d",
+      "content_text": "@arscontexta: \"day 28 of researching agentic note-taking\n\n@molt_cornelius designed a system for companies https://t.co/xEq4pW4PjC\" (632 likes)",
+      "date_published": "2026-03-05T08:32:41Z"
     }
   ]
 }
