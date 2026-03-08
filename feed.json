@@ -1031,6 +1031,34 @@
       "title": "@daveg: A new architecture for AI agents, centered on simplicity, is",
       "content_text": "@daveg: \"A new architecture for AI agents, centered on simplicity, is emerging and it's very like what happened with blogging and RSS aggregation which were the building blocks of social media, 25 years ago, where I worked on RSS.\n\nIt consists of CLIs rather than APIs to access tools and \" (10 likes)",
       "date_published": "2026-03-06T08:29:24Z"
+    },
+    {
+      "id": "bm-2030202875297587402",
+      "url": "https://x.com/stainfool/status/2030202875297587402",
+      "title": "@stainfool: GUI design in Evangelion https://t.co/FlGXEOdhf6",
+      "content_text": "@stainfool: \"GUI design in Evangelion https://t.co/FlGXEOdhf6\" (11379 likes)",
+      "date_published": "2026-03-08T08:13:25Z"
+    },
+    {
+      "id": "bm-2029995299972993458",
+      "url": "https://x.com/GenAI_is_real/status/2029995299972993458",
+      "title": "@GenAI_is_real: I've been using Claude Code heavily lately, and while doing ",
+      "content_text": "@GenAI_is_real: \"I've been using Claude Code heavily lately, and while doing so, I've been casually watching the OpenClaw codebase evolve. What I've witnessed mirrors a pattern I've seen play out with every agent framework before it — and it's worth talking about.\n\nOpenClaw is a remarkable proj\" (536 likes)",
+      "date_published": "2026-03-08T08:13:25Z"
+    },
+    {
+      "id": "bm-2029996204306866585",
+      "url": "https://x.com/TaylorPearsonMe/status/2029996204306866585",
+      "title": "@TaylorPearsonMe: I've been working on a longer piece about how Claude Code is",
+      "content_text": "@TaylorPearsonMe: \"I've been working on a longer piece about how Claude Code is changing knowledge work — an \"As We May Work\" riff on Vannevar Bush's 1945 essay.\n\nIn the process I've been trying to visualize how all the pieces fit together. This is my favorite attempt so far — the Knowledge Wor\" (191 likes)",
+      "date_published": "2026-03-08T08:13:25Z"
+    },
+    {
+      "id": "bm-2029699731539255640",
+      "url": "https://x.com/jimprosser/status/2029699731539255640",
+      "title": "@jimprosser: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
+      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "date_published": "2026-03-08T08:13:32Z"
     }
   ]
 }
