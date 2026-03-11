@@ -1073,6 +1073,27 @@
       "title": "@NickFreiling: @tedfrank Example?",
       "content_text": "@NickFreiling: \"@tedfrank Example?\" (21 likes)",
       "date_published": "2026-03-10T08:02:08Z"
+    },
+    {
+      "id": "bm-2031376622931046402",
+      "url": "https://x.com/justinmfarrugia/status/2031376622931046402",
+      "title": "@justinmfarrugia: design-specific skills I'm using the most on Claude Code:\n\n�",
+      "content_text": "@justinmfarrugia: \"design-specific skills I'm using the most on Claude Code:\n\n• https://t.co/jRKTZnmAiy by @benjitaylor\n• DialKit from https://t.co/wViEKCaV8Q by @joshpuckett\n• design-lab by @0xDesigner\n\nany specific ones you're using?\" (598 likes)",
+      "date_published": "2026-03-11T08:00:12Z"
+    },
+    {
+      "id": "bm-2031408954517971368",
+      "url": "https://x.com/Vtrivedy10/status/2031408954517971368",
+      "title": "@Vtrivedy10: ### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free w…",
+      "content_text": "### WebGPU-Powered Retro Graphics Tool\n\nGrainrad is a free web-based tool that delivers ASCII art, dithering, and retro visual effects running at 60 frames per second. The application leverages WebGPU technology to provide hardware-accelerated performance directly in the browser without requiring downloads or installations.\n\n### Real-Time Performance and Accessibility\n\nThe tool processes visual effects in real-time at a consistent 60fps framerate, making it suitable for both static image process",
+      "date_published": "2026-03-11T08:00:21Z"
+    },
+    {
+      "id": "bm-2031104163309080949",
+      "url": "https://x.com/jesseengel/status/2031104163309080949",
+      "title": "@jesseengel: Today, we're open sourcing the code behind \"The Infinite Cra",
+      "content_text": "@jesseengel: \"Today, we're open sourcing the code behind \"The Infinite Crate,\" our VST/AU plugin that lets you play with Lyria RealTime directly inside your favorite DAW!  🎧🎶\n\nSince we released The Infinite Crate last year, it’s been used by some of our favorite artists - including a w\" (181 likes)",
+      "date_published": "2026-03-11T08:00:21Z"
     }
   ]
 }
