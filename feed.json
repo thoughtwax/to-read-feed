@@ -1115,6 +1115,13 @@
       "title": "@zenorocha: Today, we're launching the Resend CLI\n\n• 53 commands\n• F",
       "content_text": "@zenorocha: \"Today, we're launching the Resend CLI\n\n• 53 commands\n• Fully open source\n\n$ curl -fsSL h‌ttps://resend.⁠⁠⁠⁠⁠com/install.⁠⁠⁠⁠⁠sh | bash https://t.co/hxVBXrnt5r\" (2482 likes)",
       "date_published": "2026-03-14T08:28:12Z"
+    },
+    {
+      "id": "bm-2033605835092312491",
+      "url": "https://x.com/micLivs/status/2033605835092312491",
+      "title": "@micLivs: Introducing napkin 🧻 (Agents + Obsidian + a CLI tailored ",
+      "content_text": "@micLivs: \"Introducing napkin 🧻 (Agents + Obsidian + a CLI tailored for agents is amazing).\n\nnapkin is a knowledge base that doubles as an agent memory layer. ultra fast, completely sidestepping vector search.\n\nFirst class support for @badlogicgames's pi - includes a self-distillation me\" (247 likes)",
+      "date_published": "2026-03-17T09:26:32Z"
     }
   ]
 }
