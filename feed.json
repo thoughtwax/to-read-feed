@@ -1122,6 +1122,34 @@
       "title": "@micLivs: Introducing napkin 🧻 (Agents + Obsidian + a CLI tailored ",
       "content_text": "@micLivs: \"Introducing napkin 🧻 (Agents + Obsidian + a CLI tailored for agents is amazing).\n\nnapkin is a knowledge base that doubles as an agent memory layer. ultra fast, completely sidestepping vector search.\n\nFirst class support for @badlogicgames's pi - includes a self-distillation me\" (247 likes)",
       "date_published": "2026-03-17T09:26:32Z"
+    },
+    {
+      "id": "bm-2034023235654980049",
+      "url": "https://x.com/levie/status/2034023235654980049",
+      "title": "@levie: The official Box CLI is here. Now you can use Box via Claude",
+      "content_text": "@levie: \"The official Box CLI is here. Now you can use Box via Claude Code, Codex, Perplexity Computer, OpenClaw &amp; more as a full cloud file system for agents.  Available to all users, including free users with 10GB of free storage.\n\nnpm install --global @box/cli https://t.co/0od3wPpB\" (663 likes)",
+      "date_published": "2026-03-21T08:06:06Z"
+    },
+    {
+      "id": "bm-2034310231724073173",
+      "url": "https://x.com/parkerconrad/status/2034310231724073173",
+      "title": "@parkerconrad: Rippling launched its AI analyst today. I'm not just the CEO",
+      "content_text": "@parkerconrad: \"Rippling launched its AI analyst today. I'm not just the CEO - I'm also the Rippling admin for our co, and I run payroll for our ~ 5K global employees.\n\nHere are 5 specific ways Rippling AI has changed my job, and why I believe this is the future of G&amp;A software. 🧵 1/n htt\" (1205 likes)",
+      "date_published": "2026-03-21T08:06:06Z"
+    },
+    {
+      "id": "bm-2033945654377283643",
+      "url": "https://x.com/rohit4verse/status/2033945654377283643",
+      "title": "@rohit4verse: ### What I Received\nThe provided content for `http://x.com/i…",
+      "content_text": "### What I Received\nThe provided content for `http://x.com/i/article/2028491712692383744` is empty in the prompt. There is no article text, no visible headings, and no quoted material to extract or summarize. With no source text included, I cannot identify the main points, supporting facts, or any concrete numbers from the article.\n\n### What I Can Summarize (From This Input)\nBecause the `<content>` field contains no article body, there are no claims to paraphrase and no details to verify. I also",
+      "date_published": "2026-03-21T08:16:36Z"
+    },
+    {
+      "id": "bm-2033949937936085378",
+      "url": "https://x.com/trq212/status/2033949937936085378",
+      "title": "@trq212: ### Source Content Missing\nThe provided page content is empt…",
+      "content_text": "### Source Content Missing\nThe provided page content is empty, so there is no article text available to summarize. I cannot extract main points, supporting details, numbers, or quotes without the actual content.\n\n### What To Send\nPaste the article text here (or a readable transcript), and include any images' text if the article is image-based. If it is long, you can paste it in multiple chunks and I will summarize once all parts are included.\n\n### What You Will Get Back\nOnce you share the conten",
+      "date_published": "2026-03-21T08:16:49Z"
     }
   ]
 }
