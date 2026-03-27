@@ -1150,6 +1150,20 @@
       "title": "@trq212: ### Source Content Missing\nThe provided page content is empt…",
       "content_text": "### Source Content Missing\nThe provided page content is empty, so there is no article text available to summarize. I cannot extract main points, supporting details, numbers, or quotes without the actual content.\n\n### What To Send\nPaste the article text here (or a readable transcript), and include any images' text if the article is image-based. If it is long, you can paste it in multiple chunks and I will summarize once all parts are included.\n\n### What You Will Get Back\nOnce you share the conten",
       "date_published": "2026-03-21T08:16:49Z"
+    },
+    {
+      "id": "bm-2037253351583141910",
+      "url": "https://x.com/RampLabs/status/2037253351583141910",
+      "title": "@RampLabs: Today, we're releasing Ramp CLI to let agents manage your co",
+      "content_text": "@RampLabs: \"Today, we're releasing Ramp CLI to let agents manage your company's finances.\n\n50+ tools across cards, bills, expenses, travel, and approvals. Fewer tokens than MCP, and comes with pre-built skills like receipt compliance and agentic purchasing. https://t.co/UqC23ap21o\" (1962 likes)",
+      "date_published": "2026-03-27T08:37:41Z"
+    },
+    {
+      "id": "bm-2037199644930040207",
+      "url": "https://x.com/eoghan/status/2037199644930040207",
+      "title": "@eoghan: By far the biggest technology update in the history of servi",
+      "content_text": "@eoghan: \"By far the biggest technology update in the history of service agents. And a significant development for AI applications and AI at large. Today we're sharing news about Apex, the world's first customer service model that beats all known models at this task.\" (73 likes)",
+      "date_published": "2026-03-27T08:37:41Z"
     }
   ]
 }
