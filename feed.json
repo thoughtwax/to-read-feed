@@ -1178,6 +1178,13 @@
       "title": "@eoghan: ### What is available\nThe provided source includes a URL and…",
       "content_text": "### What is available\nThe provided source includes a URL and page metadata but no article text in the content field. With no body text to analyze, there are no claims, facts, numbers, or quotes available to summarize.\n\n### What can be inferred from the metadata\nThe link resolves to an X article page (`http://x.com/i/article/2036937287016341504`) via a t.co shortener (`https://t.co/I2Hf40EpIt`). No headline, author, publication date, section text, or embedded excerpts are included in the provided",
       "date_published": "2026-03-29T07:00:50Z"
+    },
+    {
+      "id": "bm-2039032368779141507",
+      "url": "https://x.com/hemeon/status/2039032368779141507",
+      "title": "@hemeon: Middle management existed to pass information up and down th",
+      "content_text": "@hemeon: \"Middle management existed to pass information up and down the org chain. \n\nAI removes this middle management layer and flattens orgs. \n\nGreat article suggests we only need 3 roles in an org:\nICs (builders), DRIs (owners), and player-coaches (builders who lead).\" (699 likes)",
+      "date_published": "2026-04-01T07:06:42Z"
     }
   ]
 }
