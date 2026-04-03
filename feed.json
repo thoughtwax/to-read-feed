@@ -1220,6 +1220,20 @@
       "title": "@petergyang: Watching Jenny (Cowork's design lead) walk through her think",
       "content_text": "@petergyang: \"Watching Jenny (Cowork's design lead) walk through her thinking behind all her past Claude Cowork iterations was fascinating.\n\n\"It's this constant balance between how much do we tell people how to use [Cowork] versus leaving it really free form for them.\"\n\n\"Over time, we stripped\" (774 likes)",
       "date_published": "2026-04-02T08:18:58Z"
+    },
+    {
+      "id": "bm-2039739581772554549",
+      "url": "https://x.com/nichochar/status/2039739581772554549",
+      "title": "@nichochar: {\"type\":\"thread.started\",\"thread_id\":\"019d522b-a887-7621-b9a…",
+      "content_text": "{\"type\":\"thread.started\",\"thread_id\":\"019d522b-a887-7621-b9aa-39267e21dec8\"}\n{\"type\":\"turn.started\"}",
+      "date_published": "2026-04-03T07:10:20Z"
+    },
+    {
+      "id": "bm-2039805659525644595",
+      "url": "https://x.com/karpathy/status/2039805659525644595",
+      "title": "@karpathy: LLM Knowledge Bases\n\nSomething I'm finding very useful recen",
+      "content_text": "@karpathy: \"LLM Knowledge Bases\n\nSomething I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating know\" (18202 likes)",
+      "date_published": "2026-04-03T07:10:20Z"
     }
   ]
 }
