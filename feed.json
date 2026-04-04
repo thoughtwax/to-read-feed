@@ -1234,6 +1234,20 @@
       "title": "@karpathy: LLM Knowledge Bases\n\nSomething I'm finding very useful recen",
       "content_text": "@karpathy: \"LLM Knowledge Bases\n\nSomething I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating know\" (18202 likes)",
       "date_published": "2026-04-03T07:10:20Z"
+    },
+    {
+      "id": "bm-2039807913657532677",
+      "url": "https://x.com/dunkhippo33/status/2039807913657532677",
+      "title": "@dunkhippo33: 4) If I put more effort into this, I could probably ask it t",
+      "content_text": "@dunkhippo33: \"4) If I put more effort into this, I could probably ask it to set up automated outbound sales. But Paperclip doesn't come with sales agents, so I'm relying on SEO. The pages are well indexed…but that only goes so far.\" (21 likes)",
+      "date_published": "2026-04-04T07:12:32Z"
+    },
+    {
+      "id": "bm-2039786704731541903",
+      "url": "https://x.com/ryancarson/status/2039786704731541903",
+      "title": "@ryancarson: {\"type\":\"thread.started\",\"thread_id\":\"019d576f-8335-7520-a3c…",
+      "content_text": "{\"type\":\"thread.started\",\"thread_id\":\"019d576f-8335-7520-a3ce-027d043ff690\"}\n{\"type\":\"turn.started\"}\n{\"type\":\"item.completed\",\"item\":{\"id\":\"item_0\",\"type\":\"reasoning\",\"text\":\"**Structuring content**\\n\\nI'm figuring out how to organize headings and paragraphs. I think I’ll place a newline after each heading, and maybe I don't need blank lines between the paragraphs. I could create paragraphs as single lines separated by newlines after the headings. This approach allows each section to be a cohe",
+      "date_published": "2026-04-04T07:49:27Z"
     }
   ]
 }
