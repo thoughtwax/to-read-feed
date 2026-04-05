@@ -1248,6 +1248,27 @@
       "title": "@ryancarson: {\"type\":\"thread.started\",\"thread_id\":\"019d576f-8335-7520-a3c…",
       "content_text": "{\"type\":\"thread.started\",\"thread_id\":\"019d576f-8335-7520-a3ce-027d043ff690\"}\n{\"type\":\"turn.started\"}\n{\"type\":\"item.completed\",\"item\":{\"id\":\"item_0\",\"type\":\"reasoning\",\"text\":\"**Structuring content**\\n\\nI'm figuring out how to organize headings and paragraphs. I think I’ll place a newline after each heading, and maybe I don't need blank lines between the paragraphs. I could create paragraphs as single lines separated by newlines after the headings. This approach allows each section to be a cohe",
       "date_published": "2026-04-04T07:49:27Z"
+    },
+    {
+      "id": "bm-2040535589771149379",
+      "url": "https://x.com/andrewfarah/status/2040535589771149379",
+      "title": "@andrewfarah: sharing my first open source project\n\na CLI for downloading ",
+      "content_text": "@andrewfarah: \"sharing my first open source project\n\na CLI for downloading and syncing your X bookmarks locally so your agent can access them. it's free\n\n›  npm install -g fieldtheory\n›  login to your X account in a chrome tab\n›  ft sync (done!)\n\nbonus:\n›  ft viz\n›  ft classify https:\" (1884 likes)",
+      "date_published": "2026-04-05T07:00:42Z"
+    },
+    {
+      "id": "bm-2040444350744953262",
+      "url": "https://x.com/chrisbarber/status/2040444350744953262",
+      "title": "@chrisbarber: Some obvious observations:\n\n- many users are using Claude co",
+      "content_text": "@chrisbarber: \"Some obvious observations:\n\n- many users are using Claude code as a kind of personal and professional os\n- some people are using claw products for the same\n- some people are using cowork for the same\n- I expect this will be an enormous product\n- I expect this will disintermediate\" (66 likes)",
+      "date_published": "2026-04-05T07:00:42Z"
+    },
+    {
+      "id": "bm-2040470801506541998",
+      "url": "https://x.com/karpathy/status/2040470801506541998",
+      "title": "@karpathy: Wow, this tweet went very viral!\n\nI wanted share a possibly ",
+      "content_text": "@karpathy: \"Wow, this tweet went very viral!\n\nI wanted share a possibly slightly improved version of the tweet in an \"idea file\". The idea of the idea file is that in this era of LLM agents, there is less of a point/need of sharing the specific code/app, you just share the idea, then the oth\" (17265 likes)",
+      "date_published": "2026-04-05T07:00:43Z"
     }
   ]
 }
