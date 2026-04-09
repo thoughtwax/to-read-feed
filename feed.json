@@ -1360,6 +1360,55 @@
       "title": "@karpathy: Farzapedia, personal wikipedia of Farza, good example follow",
       "content_text": "@karpathy: \"Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.\n\nI really like this approach to personalization in a number of ways, compared to \"status quo\" of an AI that allegedly gets better the more you use it or something:\n\n1. Explicit. The memory artifact\" (8563 likes)",
       "date_published": "2026-04-08T07:18:57Z"
+    },
+    {
+      "id": "bm-2041998061153427861",
+      "url": "https://x.com/poetengineer__/status/2041998061153427861",
+      "title": "@poetengineer__: one direction from this that excites me: a learning base ins",
+      "content_text": "@poetengineer__: \"one direction from this that excites me: a learning base instead of a storage one: not for what you already know, but for what you don't. \nmade one for deep reading of plato's timaeus.\n2 things i carried over: non-rag, indexed fs, and /raw-is-sacred to separate sources from gener\" (1226 likes)",
+      "date_published": "2026-04-09T07:04:15Z"
+    },
+    {
+      "id": "bm-2041505970442944571",
+      "url": "https://x.com/SophieHaigney/status/2041505970442944571",
+      "title": "@SophieHaigney: My piece in the paper from Sunday :) https://t.co/LJ0MNHZhjH",
+      "content_text": "@SophieHaigney: \"My piece in the paper from Sunday :) https://t.co/LJ0MNHZhjH https://t.co/kOIkhe4P24\" (807 likes)",
+      "date_published": "2026-04-09T07:04:15Z"
+    },
+    {
+      "id": "bm-2041867942489669722",
+      "url": "https://x.com/linuz90/status/2041867942489669722",
+      "title": "@linuz90: I built my dream Markdown editor for Mac.\n\n→ Introducing C",
+      "content_text": "@linuz90: \"I built my dream Markdown editor for Mac.\n\n→ Introducing Cogito (pronounced koh-gee-toh).\n\nIt started out of frustration: Obsidian is powerful but overwhelming. iA Writer is beautiful but feels built for a different era.\n\nNothing felt right for how I actually write and work now\" (1239 likes)",
+      "date_published": "2026-04-09T07:04:15Z"
+    },
+    {
+      "id": "bm-2041896344814555264",
+      "url": "https://x.com/mortenjust/status/2041896344814555264",
+      "title": "@mortenjust: I built a different kind of dictation app\n\nIt lets you talk,",
+      "content_text": "@mortenjust: \"I built a different kind of dictation app\n\nIt lets you talk, take screenshots, copy text, and draw on the screen. \n\nIt interweaves transcription and screenshots into a little story you can paste anywhere. \n\nI've been using it the last few weeks to give design feedback to Claude -\" (263 likes)",
+      "date_published": "2026-04-09T07:04:15Z"
+    },
+    {
+      "id": "bm-2041639638889328868",
+      "url": "https://x.com/essamsleiman/status/2041639638889328868",
+      "title": "@essamsleiman: tldr: everyone is converging on the same product shape: a ge",
+      "content_text": "@essamsleiman: \"tldr: everyone is converging on the same product shape: a general harness that takes a goal, uses tools, and does knowledge work. \n\nonce every product is a harness, the next frontier is the feedback loop that improves it after deployment.\" (1093 likes)",
+      "date_published": "2026-04-09T07:04:15Z"
+    },
+    {
+      "id": "bm-2040927460162683332",
+      "url": "https://x.com/bzogrammer/status/2040927460162683332",
+      "title": "@bzogrammer: My intuition for what Claude is, relative to humans and the ",
+      "content_text": "@bzogrammer: \"My intuition for what Claude is, relative to humans and the domain of all discovered and legible knowledge https://t.co/G9slDkIIyi\" (2734 likes)",
+      "date_published": "2026-04-09T07:11:56Z"
+    },
+    {
+      "id": "bm-2041942364051145120",
+      "url": "https://x.com/brian_scanlan/status/2041942364051145120",
+      "title": "@brian_scanlan: This is no longer an experiment.\n\nAnnouncing the Fin CLI - t",
+      "content_text": "@brian_scanlan: \"This is no longer an experiment.\n\nAnnouncing the Fin CLI - the agent-first way of signing up to, configuring and using Fin and the Intercom helpdesk. Ask your agent to use fin dot ai slash cli to set Fin up from scratch.\" (32 likes)",
+      "date_published": "2026-04-09T07:11:57Z"
     }
   ]
 }
