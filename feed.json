@@ -1409,6 +1409,76 @@
       "title": "@brian_scanlan: This is no longer an experiment.\n\nAnnouncing the Fin CLI - t",
       "content_text": "@brian_scanlan: \"This is no longer an experiment.\n\nAnnouncing the Fin CLI - the agent-first way of signing up to, configuring and using Fin and the Intercom helpdesk. Ask your agent to use fin dot ai slash cli to set Fin up from scratch.\" (32 likes)",
       "date_published": "2026-04-09T07:11:57Z"
+    },
+    {
+      "id": "6KZjszC59xvSokzmm34NzW",
+      "url": "https://cogito.md/",
+      "title": "Cogito: Beautiful, Native Markdown Editor for Mac",
+      "content_text": "(beta). Pronounced koh-gee-toh.\nA quiet, beautiful, native app for your (and your agents’) Markdown files.\nBuilt for power users and developers, but with simplicity and minimalism in mind. It's fast, polished, and a pleasure to use.\nWrite Markdown like it was meant to be written.\nEverything you’d expect from a modern Markdown editor, as a beautiful native Mac app.\n• Drag-and-drop images and media inline\n• Syntax dims so your prose stays readable\n• Shortcuts for bold, italic, links, tas",
+      "date_published": "2026-04-11T07:09:17Z"
+    },
+    {
+      "id": "AjfQvWDrsnnHQfiz8jtFcH",
+      "url": "https://x.com/linuz90/status/2041885461870706797?s=12",
+      "title": "@linuz90: It's pure Swift, SwiftUI for the app shell + AppKit where needed (mostly the edi",
+      "content_text": "@linuz90: \"It's pure Swift, SwiftUI for the app shell + AppKit where needed (mostly the editor). The editor itself is NSTextView wrapped in NSViewRepresentable with custom highlighting via HighlighterSwift + lots of custom code to make it the best markdown rendering in my experience (with best of iA Writer, Ul\" (4 likes)",
+      "date_published": "2026-04-11T07:09:20Z"
+    },
+    {
+      "id": "V6o4zhvKLQD1YN2ZKUo8hT",
+      "url": "https://www.localfirstconf.com/",
+      "title": "Local-First Conf 2026",
+      "content_text": "Local First conf 2026\nSoftware development is changing, but not our values\n“Local first” is a term for software that prioritizes data ownership, user agency, and empowering of end users to do more with their digital tools.Software creation is changing rapidly through LLM-assisted coding and AI agents. But our values are the same as ever.We’re not here to chase the latest trend, but to think long-term about what we want computing and software to look like in 3, 5, or 10 years.\nHighlights fr",
+      "date_published": "2026-04-11T07:11:15Z"
+    },
+    {
+      "id": "bm-2042602843191021723",
+      "url": "https://x.com/harjtaggar/status/2042602843191021723",
+      "title": "@harjtaggar: Ssh'ing into my Mac Mini to start a claude code session to d",
+      "content_text": "@harjtaggar: \"Ssh'ing into my Mac Mini to start a claude code session to debug my openclaw gateway feels like it's maybe not the future.\" (1100 likes)",
+      "date_published": "2026-04-11T07:11:18Z"
+    },
+    {
+      "id": "bm-2042746909367091707",
+      "url": "https://x.com/nichochar/status/2042746909367091707",
+      "title": "@nichochar: @Tradermayne Mistborn, name of the wind (but he refuses to p",
+      "content_text": "@nichochar: \"@Tradermayne Mistborn, name of the wind (but he refuses to publish the third), lord of the rings, the blade itself, shadow of the gods\" (1 likes)",
+      "date_published": "2026-04-11T07:11:18Z"
+    },
+    {
+      "id": "bm-2042677060808917220",
+      "url": "https://x.com/Tradermayne/status/2042677060808917220",
+      "title": "@Tradermayne: I just finished the Red Rising trilogy and, omg, one of the ",
+      "content_text": "@Tradermayne: \"I just finished the Red Rising trilogy and, omg, one of the best fiction stories I've ever read.\n\nI flew through these three books in under a month. I only wish there was more. What are some other series that you consider on the same level?\" (1244 likes)",
+      "date_published": "2026-04-11T07:11:18Z"
+    },
+    {
+      "id": "bm-2042262559068446816",
+      "url": "https://x.com/raffichill/status/2042262559068446816",
+      "title": "@raffichill: Introducing FloatyDo:\n\nA miniature todo list with as few fea",
+      "content_text": "@raffichill: \"Introducing FloatyDo:\n\nA miniature todo list with as few features and as much craft as possible.\n\nIf you love Things and Apple Notes but still find yourself writing your daily todos down on a piece of paper, you might like FloatyDo.\n\nSpecial details + download link below ↓ http\" (503 likes)",
+      "date_published": "2026-04-11T07:11:18Z"
+    },
+    {
+      "id": "bm-2042616901566652580",
+      "url": "https://x.com/mykola/status/2042616901566652580",
+      "title": "@mykola: The Sherlock risk is so high, though. Once someone finds the",
+      "content_text": "@mykola: \"The Sherlock risk is so high, though. Once someone finds the right abstraction it’s basically free for a big AI lab to clone and release it. See Anthropic basically shipping openclaw into their product offerings within two months, then nuking the original.\n\nIt’s very high ris\" (4 likes)",
+      "date_published": "2026-04-11T07:11:18Z"
+    },
+    {
+      "id": "bm-2042335627862032754",
+      "url": "https://x.com/Shopify/status/2042335627862032754",
+      "title": "@Shopify: the Shopify AI Toolkit is here\n\nmanage your store with your ",
+      "content_text": "@Shopify: \"the Shopify AI Toolkit is here\n\nmanage your store with your favorite agent\n\nClaude Code, Codex, Cursor, VS Code, and more https://t.co/gmQiRTdA8p\" (5389 likes)",
+      "date_published": "2026-04-11T07:11:19Z"
+    },
+    {
+      "id": "bm-2042431438025592918",
+      "url": "https://x.com/harjtaggar/status/2042431438025592918",
+      "title": "@harjtaggar: People underestimate how far chat will go as the right UI be",
+      "content_text": "@harjtaggar: \"People underestimate how far chat will go as the right UI because they underestimate how much decision making we’re going to delegate to agents. Looking at a graph or table is going to be something you only do in a code red.\" (210 likes)",
+      "date_published": "2026-04-11T07:11:19Z"
     }
   ]
 }
