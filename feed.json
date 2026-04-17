@@ -1626,6 +1626,34 @@
       "title": "@Shpigford: just rolled out v2 of https://t.co/n103RxY0E0! \n\nkinda unrea",
       "content_text": "@Shpigford: \"just rolled out v2 of https://t.co/n103RxY0E0! \n\nkinda unreal number of updates but the tl;dr is that it's my first step towards making it a proper \"knowledge base\" for you and your AI agents (not just a markdown viewer). https://t.co/ni1aVFmdRH\" (327 likes)",
       "date_published": "2026-04-16T07:30:45Z"
+    },
+    {
+      "id": "bm-2044624420732563864",
+      "url": "https://x.com/andrewmccalip/status/2044624420732563864",
+      "title": "@andrewmccalip: The key is to make wrappers sitting below Claude, not above ",
+      "content_text": "@andrewmccalip: \"The key is to make wrappers sitting below Claude, not above Claude. \n\nI think a lot of 2024 got this wrong.\" (120 likes)",
+      "date_published": "2026-04-17T07:01:27Z"
+    },
+    {
+      "id": "bm-2044405154263556463",
+      "url": "https://x.com/2600th/status/2044405154263556463",
+      "title": "@2600th: Jam devs: stop wasting day 1 rebuilding movement, physics, v",
+      "content_text": "@2600th: \"Jam devs: stop wasting day 1 rebuilding movement, physics, vehicles, and UI.\n\nI open-sourced Kinema:\na playable 3D browser game starter built with TypeScript + Three.js/WebGPU + Rapier.\n\nBuilt with AI help.\n\nhttps://t.co/ROQZ1xguNn\n\n#gamedevjs #threejs #webgamedev https://t.co/XR\" (195 likes)",
+      "date_published": "2026-04-17T07:01:27Z"
+    },
+    {
+      "id": "bm-2044513262189088967",
+      "url": "https://x.com/sandhya/status/2044513262189088967",
+      "title": "@sandhya: Watching the Cowork wave flood into GTM and Ops teams in big",
+      "content_text": "@sandhya: \"Watching the Cowork wave flood into GTM and Ops teams in big companies and dear lord, it has never been more valuable to understand how software works. \n\nCreative system thinkers are on a high. Folks without an intuition for software are building skills and plugins the wrong way \" (77 likes)",
+      "date_published": "2026-04-17T07:01:27Z"
+    },
+    {
+      "id": "bm-2044520936540438932",
+      "url": "https://x.com/steveruizok/status/2044520936540438932",
+      "title": "@steveruizok: this is a [deep breath] M5 Stick S3 acting as a frontend for",
+      "content_text": "@steveruizok: \"this is a [deep breath] M5 Stick S3 acting as a frontend for Gemini Flash 3.1 Live, running via a CloudFlare worker, with tools to set device settings (brightness, volume, power), web fetch / search, and vector search (of tldraw docs) via cf's Vectorize.\n\ncrazy low latency, push \" (416 likes)",
+      "date_published": "2026-04-17T07:01:27Z"
     }
   ]
 }
