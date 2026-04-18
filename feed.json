@@ -1654,6 +1654,27 @@
       "title": "@steveruizok: this is a [deep breath] M5 Stick S3 acting as a frontend for",
       "content_text": "@steveruizok: \"this is a [deep breath] M5 Stick S3 acting as a frontend for Gemini Flash 3.1 Live, running via a CloudFlare worker, with tools to set device settings (brightness, volume, power), web fetch / search, and vector search (of tldraw docs) via cf's Vectorize.\n\ncrazy low latency, push \" (416 likes)",
       "date_published": "2026-04-17T07:01:27Z"
+    },
+    {
+      "id": "bm-2045144665758879974",
+      "url": "https://x.com/egregore_xyz/status/2045144665758879974",
+      "title": "@egregore_xyz: egregore's core primitive is /handoff. it shares your work a",
+      "content_text": "@egregore_xyz: \"egregore's core primitive is /handoff. it shares your work as curated context to your teammate, their agent, and to the collective mind.\n\nsee the documentation for the full suite: https://t.co/48e5rGWUI2\" (29 likes)",
+      "date_published": "2026-04-18T07:15:37Z"
+    },
+    {
+      "id": "bm-2044933442236776794",
+      "url": "https://x.com/finmoorhouse/status/2044933442236776794",
+      "title": "@finmoorhouse: The hyperscalers have already outspent the most famous US me",
+      "content_text": "@finmoorhouse: \"The hyperscalers have already outspent the most famous US megaprojects https://t.co/D54qD8kO61\" (7775 likes)",
+      "date_published": "2026-04-18T07:15:38Z"
+    },
+    {
+      "id": "bm-2044882359565312468",
+      "url": "https://x.com/varun_mathur/status/2044882359565312468",
+      "title": "@varun_mathur: Introducing Pods\n\nHyperspace Pods lets a small group of peop",
+      "content_text": "@varun_mathur: \"Introducing Pods\n\nHyperspace Pods lets a small group of people - a family, a startup, a few friends, to pool their laptops and desktops into one AI cluster. Everyone installs the CLI, someone creates a pod, shares an invite link, and the machines form a mesh. Models like Qwen 3.5\" (3042 likes)",
+      "date_published": "2026-04-18T07:15:38Z"
     }
   ]
 }
